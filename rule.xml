@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><rule>
+  <time description="1.&#x9;乘×: 时间要求（Time）：根据之前计算的所有数据总和，再根据以往的招聘过程，得出一个合理值。即每个point对应的工作日数。比如20个point的case需要10个工作日总跨度时间，那么如果需求方提出要在五个工作日内达成，计算公式为：10/5。">1</time>
+  <category description="3.&#x9;乘×:职位类别（Category）：根据类别乘以系数。比如：专业职别1.05，高级职别1.2，资深级别1.3，架构级别1.4，管理级别1.45.">
+    <standard description="普通类型的职位" value="1.2"/>
+    <pro description="专业职位" value="1.1"/>
+    <senior description="高级职位" value="1.2"/>
+    <exp description="资深职位" value="1.3"/>
+    <arc description="架构职级" value="1.4"/>
+    <mgr description="管理职级" value="1.6"/>
+  </category>
+  <grade description="4.&#x9;乘×:职业级别（Level）：预先根据公司目前的所有人员的级别的加权平均值求一个合理的值。这个值一般情况下略小于平均级别。比如当前公司平均级别是20，那么可以取18. 计算公式为：（招聘级别-基准级别）×系数（比如0.01）+1。">
+    <standard description="标准级别" value="12"/>
+    <maximum description="基准最高" value="25"/>
+    <minimum description="基准底数" value="0"/>
+    <delta description="每差别一个级别所产生的值变化 " value="0.2"/>
+  </grade>
+  <exp description="6.&#x9;加+: 相关领域工作年限（exp）：设定一个标准点数值，比如10。再设定一个基准年限，比如2年。计算方式为：（要求年限-基准年限）×标准点数值。加">
+    <standard description="基准年限" value="2"/>
+    <maximum description="最大年限" value="20"/>
+    <minimum description="最小年限" value="0"/>
+    <delta description="增减值" value="0.2"/>
+  </exp>
+  <offer description="2.&#x9;乘×: Offer被拒加成：如果面试者拿到offer但是最终未接受，根据之前计算的所有数值，得到一个加成值，乘以固定系数，比如之前计算的所有值为25points，那么如果发出offer被拒，计算公式：之前的所有值（25）×固定系数（比如0.2）。此条可以累加，也就是说，如果offer反复被拒，那么总的points会反复累加，最多不超过3次，也就是说offer3次被拒之后，总points不再增加，从道理上说，此职位也应该重新考虑，但是得到的points不更改。">
+    <standard description="基准底数" value="1"/>
+    <maximum description="基准最高" value="10"/>
+    <minimum description="基准底数" value="0"/>
+    <delta description="增减值" value="3"/>
+  </offer>
+  <tech description="5.&#x9;加+: 技术方向热度（Technical）：设定一个标准点数值，比如10，根据每个涉及到的技术方向，乘以相应的加权系数，得到的综合。比如某个职位涉及到以下方向，云计算0.5，安卓，0.15，游戏0.05，那么整个加权值为10×（0.5+0.15+0.05）=7.加">
+    <research description="研究类的职位">
+      <basic description="基准点值" value="8"/>
+      <standard description="基准替代值" value="0"/>
+    </research>
+    <manager description="管理类的职位">
+      <basic description="基准点值" value="7"/>
+      <standard description="基准替代值" value="0"/>
+    </manager>
+    <product description="产品类的职位">
+      <basic description="基准点值" value="7"/>
+      <standard description="基准替代值" value="0"/>
+    </product>
+    <develop description="开发类的职位">
+      <basic description="基准点值" value="6"/>
+      <standard description="基准替代值" value="0"/>
+      <ajax description="ajax 开发技术" value="0.1"/>
+      <cloud description="云计算相关" value="0.3"/>
+      <win32 description="Win32平台开发" value="0.05"/>
+      <linux description="Linux平台开发" value="0.1"/>
+      <mac description="Mac平台" value="0.15"/>
+      <iOS description="iOS平台开发" value="0.3"/>
+      <android description="Android平台开发" value="0.2"/>
+      <flash description="Flash平台开发" value="0.2"/>
+      <cpp description="开发语言C++" value="0.1"/>
+      <oc description="ObjectC" value="0.1"/>
+      <java description="Java" value="0.1"/>
+      <sql description="sql" value="0.1"/>
+      <web description="web" value="0.05"/>
+      <eclipse description="会使用eclipse" value="0.02"/>
+      <matlab description="会使用matlab" value="0.05"/>
+      <apache description="apache web 服务器" value="0.15"/>
+      <JBoss description="JBoss java 服务器" value="0.12"/>
+      <Websphere description="Websphere java 服务器" value="0.12"/>
+      <Weblogic description="Weblogic java 服务器" value="0.12"/>
+      <webwork2 description="常用Java开源框架" value="0.12"/>
+      <iBatis description="iBatis java web 服务器" value="0.15"/>
+      <visualCpp description="Visual C++ 开发工具" value="0.1"/>
+      <audio description="音频开发相关技能" value="0.1"/>
+      <video description="视频开发相关技能" value="0.1"/>
+      <tcp description="Tcp协议" value="0.1"/>
+      <udp description="udp协议" value="0.1"/>
+      <media description="流媒体" value="0.1"/>
+      <network description="网络协议" value="0.1"/>
+    </develop>
+    <design description="设计类的职位">
+      <basic description="基准点值" value="5"/>
+      <standard description="基准替代值" value="0"/>
+    </design>
+    <quality description="质量控制类的职位">
+      <basic description="基准点值" value="4"/>
+      <standard description="基准替代值" value="0"/>
+    </quality>
+    <marketing description="市场营销类的职位	">
+      <basic description="基准点值" value="4"/>
+      <standard description="基准替代值" value="0"/>
+    </marketing>
+    <operation description="运营类的职位">
+      <basic description="基准点值" value="4"/>
+      <standard description="基准替代值" value="0"/>
+    </operation>
+    <service description="客服类的职位">
+      <basic description="基准点值" value="3"/>
+      <standard description="基准替代值" value="0"/>
+    </service>
+  </tech>
+  <special>
+    <standard description="基准底数" value="1"/>
+    <alibaba description="有在阿里巴巴工作的经历" value="3"/>
+    <eBusiness description="有在电子商务网站工作的经历" value="2"/>
+  </special>
+  <education description="教育背景：0，大专，1本科，2硕士，3博士，4研究员，教授">
+    <standard description="基准学历" value="0"/>
+    <maximum description="基准最高" value="4"/>
+    <minimum description="基准底数" value="0"/>
+    <delta description="基准点数" value="3"/>
+  </education>
+  <interview description="加+：面试拒绝值：根据筛选到的简历，如果安排面试，设定一个基准值，根据面试的轮数次次加成，一次递增，最大值不超过4轮，包括电话面试。计算公式为：面试拒绝基准值（比如2）×（1+2+3+4+4+4+4+……），如公式中描述，每轮面试递增直到四轮之后。">
+    <standard description="基准底数" value="1"/>
+    <maximum description="基准最高" value="50"/>
+    <minimum description="基准底数" value="0"/>
+    <delta description="增减值" value="0.1"/>
+  </interview>
+  <resume description="8.&#x9;加+:简历拒绝次数值：招聘需求方在提出具体需求尤其是特定的方面的需求后，在确认之后，如果筛选出初步符合要求的简历被拒绝，根据基准值，比如1,得出一个加成值，计算公司为：基准值（比如1）×（1+1/2+1/3+1/4+1/5……），计算公式中，每次拒绝，所得到的加成以此减少，如示例中所描述。">
+    <standard description="基准底数" value="30"/>
+    <maximum description="基准最高" value="80"/>
+    <minimum description="基准底数" value="30"/>
+    <delta description="增减值" value="0.1"/>
+  </resume>
+  <location>
+    <standard description="基准地点" value="3"/>
+    <sh description="上海" value="3"/>
+    <hz description="杭州" value="3"/>
+    <nj description="南京" value="3"/>
+  </location>
+</rule>
