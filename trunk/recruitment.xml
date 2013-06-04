@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recruitments>
+	<recruitment>
+		<id>10001</id>
+		<name>Senior Java Engineer</name>
+		<requiredTime>30</requiredTime>
+		<startDate>2012/3/9</startDate>
+		<finishedDate>2012/4/4</finishedDate>
+		<group>XXX</group>
+		<location>sh</location>
+		<resumes>1</resumes>
+		<interview>1</interview>
+		<education>1</education>
+		<special>
+		</special>
+		<tech select="develop">
+			<item name="linux" />
+			<item name="apache" />
+			<item name="Tomcat" />
+			<item name="JBoss" />
+			<item name="Websphere" />
+			<item name="Weblogic" />
+			<item name="ajax" />
+			<item name="java" />
+			<item name="css" />
+			<item name="sql" />
+			<item name="iBatis" />
+			<item name="webwork2" />
+			<item name="Spring" />
+		</tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>15</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10002</id>
+		<name>应用程序开发工程师</name>
+		<requiredTime>30</requiredTime>
+		<startDate>2012/3/9</startDate>
+		<finishedDate>2012/4/4</finishedDate>
+		<group>XXX</group>
+		<onBoard>2012/4/4</onBoard>
+		<location>sh</location>
+		<resumes>1</resumes>
+		<interview>1</interview>
+		<education>1</education>
+		<special>
+		</special>
+		<tech select="develop">
+			<item name="cpp" />
+			<item name="visualcpp" />
+			<item name="audio" />
+			<item name="video" />
+		</tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>13</grade>
+		<category>pro</category>
+	</recruitment>
+	<recruitment>
+		<id>10003</id>
+		<name>服务器开发工程师</name>
+		<requiredTime>30</requiredTime>
+		<startDate>2011/3/20</startDate>
+		<finishedDate>2012/3/19</finishedDate>
+		<group>XXX</group>
+		<onBoard>2012/3/19</onBoard>
+		<location>sh</location>
+		<resumes>1</resumes>
+		<interview>1</interview>
+		<education>1</education>
+		<special>
+		</special>
+		<tech select="develop">
+			<item name="cpp" />
+			<item name="tcp" />
+			<item name="udp" />
+			<item name="media" />
+			<item name="sql" />
+			<item name="network" />
+			<item name="linux" />
+		</tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>15</grade>
+		<category>pro</category>
+	</recruitment>
+</recruitments>
