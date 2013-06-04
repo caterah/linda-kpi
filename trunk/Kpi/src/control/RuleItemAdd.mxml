@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:HGroup xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx" >
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	<fx:Metadata>
+		[Event(name="itemAdd",type="flash.events.Event")]
+	</fx:Metadata>
+	<fx:Script>
+		<![CDATA[
+			private var _xml:XML;
+			
+			public function setResultXml(xml:XML):void {
+				_xml=xml;
+			}
+			
+			private function onAdd(e:MouseEvent):void {
+				var add:XML=new XML("<def />");
+				add.setLocalName(localName.text);
+				add.@description=description.text;
+				add.@value=value.text;
+				_xml.insertChildBefore(_xml.children()[0],add);
+				
+				dispatchEvent(new Event("itemAdd"));
+				
+				localName.text="";
+				description.text="";
+				localName.text="";
+				
+			}
+		]]>
+	</fx:Script>
+	<s:Spacer width="50" />
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="要添加的项目的名字：" textAlign="right" width="100" />
+		<s:TextInput id="localName" textAlign="right" width="100" />
+	</s:Group>
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="要添加的项目的描述：" textAlign="right" width="100" />
+		<s:TextInput id="description" textAlign="right" width="300"/>
+	</s:Group>
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="要添加的项目的值：" textAlign="right" width="100"/>
+		<s:TextInput id="value" textAlign="right" width="100" />
+	</s:Group>
+	<s:Button id="update" label="点击添加" click="onAdd(event)" />
+</s:HGroup>

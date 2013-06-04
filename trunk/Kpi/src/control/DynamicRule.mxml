@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:VGroup xmlns:fx="http://ns.adobe.com/mxml/2009"
+		  xmlns:s="library://ns.adobe.com/flex/spark"
+		  xmlns:control="control.*" xmlns:mx="library://ns.adobe.com/flex/mx">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+		<fx:Boolean id="enableAdd">false</fx:Boolean>
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[
+			[Bindable]
+			private var _xml:XML;
+			
+			public function setRuleXml(xml:XML):void {
+				_xml=xml;
+				
+				title.text=xml.localName();
+				description.text=xml.@description;
+				ruleAdd.setResultXml(_xml);
+				categoryAdd.setData(_xml);
+			}
+			
+			protected function updateDescription(event:MouseEvent):void
+			{
+				_xml.@description=description.text;
+			}
+			
+			
+			private function onItemAdded(event:Event):void
+			{
+				categoryAdd.setData(_xml);
+			}
+		]]>
+	</fx:Script>
+	<s:HGroup width="100%" verticalAlign="bottom">
+		<s:Label text="大项的名称："/>
+		<s:Label id="title"  color="0xFF0000"/>
+		<s:TextInput id="description" selectable="true" width="100%" />
+		<s:Button label="更新说明" click="updateDescription(event)" />
+	</s:HGroup>
+	<control:RuleItemAdd id="ruleAdd" enabled="{enableAdd}" width="100%" itemAdd="onItemAdded(event)"/>
+	<control:RuleRender id="categoryAdd" width="100%"/>
+</s:VGroup>

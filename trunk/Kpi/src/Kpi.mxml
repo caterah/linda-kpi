@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009" 
+					   xmlns:s="library://ns.adobe.com/flex/spark" 
+					   xmlns:mx="library://ns.adobe.com/flex/mx" 
+					   xmlns:local="*"
+					   creationComplete="onSystemReady(event)">
+	
+	<fx:Style source="system.css" />
+	
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.events.FlexEvent;
+			import mx.events.ItemClickEvent;
+			
+			import controller.Controller;
+			
+			[Bindable]
+			public var tabStats:Array=["查看编辑规则","查看编辑内容","查看结果以及过程"];
+			
+			private var _data:Controller;
+			
+			protected function onSystemReady(event:FlexEvent):void
+			{
+				_data=new Controller();
+				_data.loadRule();
+				_data.loadData();
+				
+				ruleEdit.setData(_data);
+				dataInput.setData(_data);
+				calcResult.setData(_data);
+				
+				switchTab(0);
+			}
+			
+			protected function onSwitchTab(e:ItemClickEvent):void
+			{
+				switchTab(e.index);
+			}
+			
+			protected function switchTab(index:int):void
+			{
+				ruleEdit.visible=false;
+				dataInput.visible=false;
+				calcResult.visible=false;
+				switch(index) 
+				{
+					case 0:
+						ruleEdit.visible=true;
+						break;
+					case 1:
+						dataInput.visible=true;
+						break;
+					case 2:
+						calcResult.visible=true;
+						break;
+					default:
+						ruleEdit.visible=true;
+						break;
+				}
+			}
+			
+		]]>
+	</fx:Script>
+	<s:VGroup width="100%" height="100%">
+		<mx:TabBar id="tab" width="100%" selectedIndex="0" itemClick="onSwitchTab(event)">
+			<mx:dataProvider>{tabStats}</mx:dataProvider>
+		</mx:TabBar>
+		<s:Group width="100%" height="100%">
+			<local:RuleEditView id="ruleEdit" width="100%" height="100%" />
+			<local:DataInputView id="dataInput" width="100%" height="100%" />
+			<local:CalcResultView id="calcResult" width="100%" height="100%" />
+		</s:Group>
+	</s:VGroup>
+</s:WindowedApplication>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Group xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx">
+	<s:layout>
+		<s:HorizontalLayout  />
+	</s:layout>
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			private var _xml:XML;
+			
+			public function setData(xml:XML):void {
+				_xml=xml;
+				
+				localName.text=xml.localName();
+				description.text=_xml.@description;
+				value.text=_xml.@value;
+			}
+			
+			private function onUpdate(e:MouseEvent):void {
+				_xml.@description=description.text;
+				_xml.@value=value.text;
+			}
+		]]>
+	</fx:Script>
+	<s:Spacer width="50" />
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="此项的标记：" textAlign="right" width="100" />
+		<s:Label id="localName" textAlign="right" width="100" />
+	</s:Group>
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="此项的描述：" textAlign="right" width="100" />
+		<s:TextInput id="description" textAlign="right" width="300"/>
+	</s:Group>
+	<s:Group>
+		<s:layout>
+			<s:HorizontalLayout />
+		</s:layout>
+		<s:Label text="此项的值：" textAlign="right" width="100"/>
+		<s:TextInput id="value" textAlign="right" width="100" />
+	</s:Group>
+	<s:Button id="update" label="点击更新" click="onUpdate(event)" />
+</s:Group>

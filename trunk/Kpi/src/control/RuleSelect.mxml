@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:VGroup xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			private var _xml:XML;
+			
+			public function setRuleXml(xml:XML):void {
+				_xml=xml;
+				selectableRule.removeAllElements();
+				title.text=xml.localName();
+				var size:int=xml.children().length();
+				var ruleRender:DynamicRule;
+				for (var i:uint=0;i<size;i++) {
+					ruleRender=new DynamicRule();
+					ruleRender.enableAdd=true;
+					ruleRender.setRuleXml(xml.children()[i]);
+					selectableRule.addElement(ruleRender);
+				}
+				description.text=_xml.@description;
+			}
+			
+			protected function updateDescription(event:MouseEvent):void
+			{
+				_xml.@description=description.text;
+			}
+		]]>
+	</fx:Script>
+	<s:HGroup width="100%">
+		<s:Label text="大项的名称：" />
+		<mx:Text id="title"  color="0xFF0000"/>
+		<s:TextInput id="description" selectable="true" width="100%" />
+		<s:Button label="更新说明" click="updateDescription(event)" />
+	</s:HGroup>
+	<s:HGroup>
+		<s:Spacer width="50" />
+		<s:VGroup id="selectableRule" />
+	</s:HGroup>
+</s:VGroup>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Panel xmlns:fx="http://ns.adobe.com/mxml/2009"
+		 xmlns:s="library://ns.adobe.com/flex/spark"
+		 xmlns:mx="library://ns.adobe.com/flex/mx"
+		 xmlns:control="control.*"
+		 width="1200" height="600" minWidth="1200" minHeight="600"
+		 creationComplete="onRuleComplete(event)" xmlns:controller="controller.*">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.events.FlexEvent;
+			
+			import controller.Controller;
+			
+			private static const URL:String="D:\\rule.xml";
+			private var _xml:XML;
+			private var _data:Controller;
+			
+			protected function onRuleComplete(event:FlexEvent):void{
+				var timer:Timer=new Timer(3000);
+				timer.addEventListener(TimerEvent.TIMER,onTimer);
+				timer.start();
+			}
+			
+			private function onTimer(e:TimerEvent):void
+			{
+				if(visible)
+					_data.saveRule();
+			}
+			
+			private function loadFromRule():void 
+			{
+				_data.loadRule();
+				renderData(_data.rule);
+			}
+			
+			private function renderData(xml:XML):void {
+				time.text=xml.time[0];
+				category.setRuleXml(xml.category[0]);
+				grade.setRuleXml(xml.grade[0]);
+				exp.setRuleXml(xml.exp[0]);
+				offer.setRuleXml(xml.offer[0]);
+				interview.setRuleXml(xml.interview[0]);
+				resume.setRuleXml(xml.resume[0]);
+				tech.setRuleXml(xml.tech[0]);
+				special.setRuleXml(xml.special[0]);
+				education.setRuleXml(xml.education[0]);
+				location.setRuleXml(xml.location[0]);
+			}
+			
+			private function saveRule():void {
+				_data.saveRule();
+			}
+			
+			public function setData(data:Controller):void 
+			{
+				_data=data;
+				renderData(_data.rule);
+			}
+		]]>
+	</fx:Script>
+	<s:VGroup width="100%" height="100%">
+		<s:BorderContainer width="100%">
+			<s:layout>
+				<s:HorizontalLayout horizontalAlign="left"/>
+			</s:layout>
+			<s:Button label="点击加载规则" click="loadFromRule()"/>
+			<s:Button label="保存规则" click="saveRule()"/>
+		</s:BorderContainer>
+		<s:HGroup width="100%" height="100%">
+			<s:Scroller height="100%" width="100%" horizontalScrollPolicy="off" verticalScrollPolicy="on">
+				<s:VGroup id="view" width="{width-30}">
+					<s:BorderContainer width="100%">
+						<s:layout>
+							<s:HorizontalLayout horizontalAlign="left"/>
+						</s:layout>
+						<s:Label text="时间对应的点数："/>
+						<s:TextInput id="time"/>
+					</s:BorderContainer>
+					
+					<control:DynamicRule id="category" enableAdd="true"/>
+					<control:DynamicRule id="grade"/>
+					<control:DynamicRule id="exp"/>
+					<control:DynamicRule id="offer"/>
+					<control:DynamicRule id="interview"/>
+					<control:DynamicRule id="resume"/>
+					<control:RuleSelect id="tech"/>
+					<control:RuleSelect id="special"/>
+					<control:RuleSelect id="education"/>
+					<control:RuleSelect id="location"/>
+				</s:VGroup>
+			</s:Scroller>
+		</s:HGroup>
+	</s:VGroup>
+</s:Panel>
