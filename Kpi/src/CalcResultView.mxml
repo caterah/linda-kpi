@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:VGroup xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		 xmlns:s="library://ns.adobe.com/flex/spark" 
+		 xmlns:mx="library://ns.adobe.com/flex/mx" xmlns:controller="controller.*">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			
+			import spark.events.GridEvent;
+			
+			import controller.Controller;
+			private var _data:Controller;
+			
+			public function setData(data:Controller):void 
+			{
+				_data=data;
+				var arr:ArrayCollection=new ArrayCollection([]);
+				var recrus:XMLList=_data.data.recruitment;
+				var size:int=recrus.length();
+				var xml:XML;
+				for(var i:uint=0;i<size;i++)
+				{
+					xml=recrus[i];
+					arr.addItem(xml);
+				}
+				recruList.dataProvider=arr;
+			}
+			
+			protected function onGridClick(event:GridEvent):void
+			{
+				var r:XML=_data.data.recruitment[recruList.selectedIndex];
+				var total:Number=calcBasic(r,0);
+				total=calcLocation(r,total);
+				total=calcResumes(r,total);
+				total=calcInterview(r,total);
+				total=calcEducation(r,total);
+				total=calcSpecial(r,total);
+				total=calcTech(r,total);
+				total=calcOffer(r,total);
+				total=calcExp(r,total);
+				total=calcGrade(r,total);
+				total=calcCategory(r,total);
+				total=calcTime(r,total);
+				total=calclAll(r,total);
+			}
+			
+			protected function calcBasic(r:XML,input:Number):Number 
+			{
+				result.text="";
+				result.appendText("-----计算公式开始--------\n");
+				result.appendText("当前计算的需求编号为"+r.id[0]+"--------\n");
+				result.appendText("当前计算的需求名称为"+r.name[0]+"--------\n");
+				result.appendText("当前计算的需求时间为"+r.requiredTime[0]+"天--------\n");
+				result.appendText("招聘开始的时间为"+r.startDate[0]+"--------\n");
+				result.appendText("招聘结束的时间为"+r.finishedDate[0]+"--------\n");
+				result.appendText("-----计算数据如下--------\n");
+				return 0;
+			}
+			
+			protected function calcLocation(r:XML,input:Number):Number 
+			{
+				logBegin("城市",input);
+				var loca:String=r.location[0];
+				var calc:Number=input+_data.opreation.location.getValue(loca);
+				logEnd("城市",calc);
+				return calc;
+			}
+			
+			protected function calcResumes(r:XML,input:Number):Number 
+			{
+				logBegin("简历",input);
+				var resumeCount:int=r.resumes[0];
+				var calc:Number=input+_data.opreation.resume.getResult(resumeCount);
+				logEnd("简历",calc);
+				return calc;
+			}
+			
+			protected function calcInterview(r:XML,input:Number):Number 
+			{
+				logBegin("面试",input);
+				var interveiwCount:int=r.interview[0];
+				var calc:Number=input+_data.opreation.interview.getResult(interveiwCount);
+				logEnd("面试",calc);
+				return calc;
+			}
+			
+			protected function calcEducation(r:XML,input:Number):Number
+			{
+				logBegin("教育背景",input);
+				var edu:int=r.education[0];
+				var calc:Number=input+_data.opreation.education.getResult(edu);
+				logEnd("教育背景",calc);
+				return calc;
+			}
+			
+			protected function calcSpecial(r:XML,input:Number):Number
+			{
+				logBegin("特殊行业或者公司",input);
+				var special:XML=r.special[0];
+				var calc:Number=input+_data.opreation.special.getMultiValues(special);
+				logEnd("特殊行业或者公司",calc);
+				return calc;
+			}
+			
+			protected function calcTech(r:XML,input:Number):Number
+			{
+				logBegin("技术、工具、平台",input);
+				var tech:XML=r.tech[0];
+				var calc:Number=input+_data.opreation.tech.getTech(tech);
+				logEnd("技术、工具、平台",calc);
+				return calc;
+			}
+			
+			protected function calcOffer(r:XML,input:Number):Number
+			{
+				logBegin("Offer",input);
+				var offer:int=r.offer[0];
+				var calc:Number=input+_data.opreation.offer.getResult(offer);
+				logEnd("Offer",calc);
+				return calc;
+			}
+			
+			protected function calcExp(r:XML,input:Number):Number
+			{
+				logBegin("工作年限、经验",input);
+				var exp:int=r.exp[0];
+				var calc:Number=input*(1+_data.opreation.exp.getResult(exp));
+				logEnd("工作年限、经验",calc);
+				return calc;
+			}
+			
+			protected function calcGrade(r:XML,input:Number):Number
+			{
+				logBegin("职位等级",input);
+				var grade:int=r.grade[0];
+				var calc:Number=input*(1+_data.opreation.grade.getResult(grade));
+				logEnd("职位等级",calc);
+				return calc;
+			}
+			
+			protected function calcCategory(r:XML,input:Number):Number
+			{
+				logBegin("职位类别",input);
+				var category:String=r.category[0];
+				var calc:Number=input*_data.opreation.category.getValue(category);
+				logEnd("职位类别",calc);
+				return calc;
+			}
+			
+			protected function calcTime(r:XML,input:Number):Number
+			{
+				logBegin("时间",input);
+				result.appendText("\n-----时间暂时不计算--------\n");
+				result.appendText("-----招聘开始时间为"+r.startDate[0]+"--------\n");
+				result.appendText("-----招聘结案时间为"+r.finishedDate[0]+"--------\n");
+				result.appendText("-----招聘设定天数为"+r.requiredTime[0]+"--------\n");
+				var calc:Number=input;
+				logEnd("时间",calc);
+				return calc;
+			}
+			
+			protected function calclAll(r:XML,input:Number):Number
+			{
+				result.appendText("\n-----最终结果为--------\n");
+				result.appendText(input.toString());
+				result.appendText("\n----人员最终OnBoard时间为--------\n");
+				result.appendText(r.onBoard[0]);
+				return input;
+			}
+			
+			protected function logBegin(key:String,begin:Number):void
+			{
+				result.appendText("\n-----计算"+key+"相关值开始--------\n");
+				result.appendText("-----计算前的结果为"+begin+"--------\n");
+			}
+			
+			protected function logEnd(key:String,end:Number):void
+			{
+				result.appendText("-----计算后的结果为"+end+"--------\n");
+				result.appendText("-----计算"+key+"相关值结束--------\n");
+			}
+			
+		]]>
+	</fx:Script>
+	
+	<s:DataGrid id="recruList" gridClick="onGridClick(event)" width="100%" >
+		<s:columns>
+			<s:ArrayList>
+				<s:GridColumn dataField="id" headerText="Id"/>
+				<s:GridColumn dataField="name" headerText="Name"/>
+			</s:ArrayList>
+		</s:columns>
+
+	</s:DataGrid>
+	
+	<s:TextArea id="result" width="100%" height="100%" />
+	
+</s:VGroup>
