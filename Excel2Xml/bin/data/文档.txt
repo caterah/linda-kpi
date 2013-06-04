@@ -1,0 +1,12 @@
+研究
+	音频、视频、图像、数学、信号处理 - 图像视频处理研究方向
+开发
+	J2EE、JBoss、Apache、Tomcat、SQL、Websphere、Weblogic-J2EE
+	Windows、C++、Visual C++、Windows应用程序、多线程-windows应用程序
+	TCP/IP, C/C++, NAT,防火墙,SIP,RSTP,RTP-网络协议开发
+	Java 网络编程 多线程，Java应用程序开发，java研发工程师 - Java应用程序开发
+	
+
+	有个想法，现在和之后都可以把职位分成若干种，把所有的职位归为这若干种里。
+	然后给每种一个固定的point。其他的通过职别，职级，类型等区分。
+	这次可以通过关键字过滤得到数据
