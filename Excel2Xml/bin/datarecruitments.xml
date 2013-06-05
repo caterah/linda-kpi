@@ -1,0 +1,4909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recruitments>
+	<recruitment>
+		<id>10001</id>
+		<name>实习:实习生</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40996</startDate>
+		<finishedDate>41422</finishedDate>
+		<months>14.2</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>210</resume_provide>
+		<resume_passsed>55</resume_passsed>
+		<interview>41</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>1、 硕士在读，信号处理，视频，音频编解码，图像分析，数学，计算机网络，应用相关专业。
+			2、 硕士/博士在读， 视频/图像处理，模式识别/机器学习，数学，信号处理等相关专业。
+			3、 良好的C编程能力。
+			4、 每周保证三天以上。
+			5、 英语CET-4及以上，具备良好的英文读写能力；
+			6、 具有独立的研发能力，参与过多媒体研究项目；
+			7、 具备较强的学习能力、沟通能力、解决问题能力、创新能力；
+			8、 具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>10</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10002</id>
+		<name>全职:Senior Java Engineer</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40977</startDate>
+		<finishedDate>41003</finishedDate>
+		<months>0.9</months>
+		<group>mcpg</group>
+		<location>sh</location>
+		<resume_provide>16</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>职位描述：
+			1、设计、开发及测试J2ee应用程序；
+			2、维护网络及应用程序服务器，并负责对操作中所发生的故障进行排除；
+			3、采用适合的设计，确保性能、可靠性和可扩展性；
+			4、和手机客户端工程师紧密合作，定义数据传输接口
+			5、研究移动互联网领域的新技术。
+
+			任职要求：
+			1、3年以上Linux, Apache, Web Server and application server开发经验；
+			2、有基于J2EE服务器的开发经验，如：Tomcat, JBoss, Websphere,
+			Weblogic等等，必须具备配置和部署的能力；
+			3、熟悉Java、CSS、Javascript、AJAX、SQL等技术，熟悉面向对象开发模式；
+			4、熟悉较常用Java开源框架，例如：webwork2, Spring, Apache Commons， iBatis等；
+			5、工作积极主动，喜欢在具有挑战性的环境氛围中工作；
+			6、大学本科及以上学历，计算机科学相关专业毕业优先；
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10003</id>
+		<name>全职:应用程序开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40977</startDate>
+		<finishedDate>41003</finishedDate>
+		<months>0.9</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>6</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>岗位职责：
+			1、负责Windows上的应用程序设计与开发。
+
+			招聘要求：
+			1、精通C/C++语言，熟练使用Visual C++开发环境；
+			2、精通Windows平台用户界面开发和优化技术；
+			3、熟悉Windows消息、多线程开发技术；
+			4、有一年以上Windows应用程序开发经验；
+			5、有音乐/视频播放器开发经验者优先；
+			6、工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10004</id>
+		<name>全职:服务器开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40622</startDate>
+		<finishedDate>40987</finishedDate>
+		<months>12.2</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>50</resume_provide>
+		<resume_passsed>15</resume_passsed>
+		<interview>7</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>1) 精通C/C++语言；
+			2) 精通TCP/IP协议；
+			3) 具备服务器产品开发经验；
+			4) 熟悉Linux环境的开发；
+			5) 本科以上学历，计算机，电子工程相关专业；
+			6) 具有三年以上工作经验；
+			7) 工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10005</id>
+		<name>全职:网络协议开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40877</startDate>
+		<finishedDate>41073</finishedDate>
+		<months>6.5</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>70</resume_provide>
+		<resume_passsed>38</resume_passsed>
+		<interview>25</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>1、精通C/C++语言；
+			2、精通TCP/IP协议；
+			3、熟悉SIP/RTSP/RTP等网络协议，了解NAT及防火墙穿越；
+			4、熟悉linux编程者优先；
+			5、硕士以上学历，计算机，电子工程相关专业；
+			6、工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10006</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41039</startDate>
+		<finishedDate>41078</finishedDate>
+		<months>1.3</months>
+		<group>cpsg</group>
+		<location>sh</location>
+		<resume_provide>35</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>产品经理需要把公司内部的核心图像视频算法转化为可以销售的产品并对销售人员做技术支持
+
+			岗位职责：
+			• 充分理解所要转换为产品的核心算法以及相应的客户需求
+			• 根据客户需求定义产品规格并严格执行
+			• 制作并执行产品的测试规格、测试用例、和测试计划
+			• 撰写产品市场文档，并及时更新
+			• 客户所购买的产品需要定制时进行项目管理
+			• 准确估计及获取完成项目所需的工程师资源，并且安排项目工程的相应任务
+			• 准确理解并严格执行公司内部以及客户的项目管理和质量控制流程
+
+			职位要求：
+			• 本科学历以上，计算机、电子工程、或相关专业
+			• 3年以上的产品管理或项目管理经验
+			• 6年以上的多媒体软件公司工作经验
+			• 出色的中英文书面和口头沟通技能
+			• 出色的团队工作能力
+			• 必须熟悉图像视频处理相关知识者
+			• 有数码相机或照相手机工作经验或相关知识者优先
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>6</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10007</id>
+		<name>全职:UI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41062</startDate>
+		<finishedDate>41095</finishedDate>
+		<months>1.1000000000000001</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>30</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>职责：
+			1) 根据产品需求，定义产品界面风格与布局，完成UI设计；
+			2) 优化用户体验，提供UI资源给产品开发团队；
+			招聘要求：
+			1) 精通Visio、PS、AI等软件；
+			2) 具有良好的设计美感和扎实的设计基础；
+			3) 善于创新，对视觉设计、色彩等有敏锐的观察力和分析力；
+			4) 熟悉Windows/Mobile Phone/Tab上的UI设计；
+			5) 能提供个人作品者优先考虑；
+			6) 工作踏实，有责任心，具有良好的团队合作精神
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10008</id>
+		<name>全职:windows应用程序开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40905</startDate>
+		<finishedDate>41113</finishedDate>
+		<months>6.9</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>30</resume_provide>
+		<resume_passsed>13</resume_passsed>
+		<interview>9</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>岗位职责：
+			负责Windows上的应用程序设计与开发。
+
+			任职要求：
+			1、精通C/C++语言，熟练使用Visual C++开发环境；
+			2、精通Windows平台用户界面开发和优化技术；
+			3、熟悉Windows消息、多线程开发技术；
+			4、有两年以上Windows应用程序开发经验；
+			5、有音乐/视频播放器开发经验者优先；
+			6、工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10009</id>
+		<name>全职:薪资福利专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41012</startDate>
+		<finishedDate>41110</finishedDate>
+		<months>3.3</months>
+		<group>operation</group>
+		<location>sh</location>
+		<resume_provide>81</resume_provide>
+		<resume_passsed>43</resume_passsed>
+		<interview>31</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>一、工作内容描述：
+			1、每月制作公司人员考勤；
+			2、每月交纳社保公积金；
+			3、办理入离职手续；
+			4、办理员工晋级、转正、异动、调动等手续操作；
+			5、人事数据的整理、汇总及分析；
+			6、员工合同签订与档案管理等；
+			7、协助办理员工的居住证、就业证等相关证件；
+			8、其他人力资源经理交代的工作。
+
+			二、岗位要求：
+			1、善于沟通，聪明灵活；
+			2、性格沉稳，踏实；
+			3、对人事数字化方面的工作有浓厚兴趣，对数字敏感者优先。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10010</id>
+		<name>全职:java研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41075</startDate>
+		<finishedDate>41092</finishedDate>
+		<months>0.6</months>
+		<group>mcpg</group>
+		<location>sh</location>
+		<resume_provide>19</resume_provide>
+		<resume_passsed>15</resume_passsed>
+		<interview>11</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>岗位职责：
+			1、负责Java应用程序开发。
+
+			招聘要求：
+			1、精通java语言，有较强的文档编写能力和设计能力；
+			2、熟悉java网络编程，多线程开发；
+			3、了解C/C++及JNI编写；
+			4、熟悉android上的java应用开发者优先；
+			5、了解网络协议(如SIP协议)者优先考虑；
+			6、有一年以上java开发经验；
+			7、工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10011</id>
+		<name>全职:java研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41075</startDate>
+		<finishedDate>41128</finishedDate>
+		<months>1.8</months>
+		<group>mcpg</group>
+		<location>sh</location>
+		<resume_provide>13</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>7</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>岗位职责：
+			1、负责Java应用程序开发。
+			招聘要求：
+			1、精通java语言，有较强的文档编写能力和设计能力；
+			2、熟悉java网络编程，多线程开发；
+			3、了解C/C++及JNI编写；
+			4、熟悉android上的java应用开发者优先；
+			5、了解网络协议(如SIP协议)者优先考虑；
+			6、有一年以上java开发经验；
+			8、工作踏实，有责任心，具有良好的团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10012</id>
+		<name>全职:视频分析研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40624</startDate>
+		<finishedDate>41152</finishedDate>
+		<months>17.600000000000001</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>49</resume_provide>
+		<resume_passsed>21</resume_passsed>
+		<interview>15</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1. 视频分析算法的研究，
+			2. 分析视频内容，提取视频特征
+			3. 模式识别/机器学习/数据挖掘方面的研究职位要求：
+			1. 计算机、电子、自动化、数学等相关专业，硕士以上学历
+			2. 2年以上模式识别/数据挖掘/机器学习等领域项目经验
+			3. 精通图像处理/视频分析算法，如目标检测、跟踪、识别/分类等
+			4. 精通 C/C++ 编程
+			5. 有智能视频监控、视频语义提取、图像局部特征提取、图像分类等项目经验者优先
+		</requirement>
+		<tech select="research"></tech>
+		<offer>3</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10013</id>
+		<name>全职:系统架构师（移动互联网）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41033</startDate>
+		<finishedDate>41289</finishedDate>
+		<months>8.5</months>
+		<group>mcpg</group>
+		<location>sh</location>
+		<resume_provide>64</resume_provide>
+		<resume_passsed>37</resume_passsed>
+		<interview>22</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			1. 业务需求系统分析，提出技术研究及可行性报告；
+			2. 结合需求设计高扩展性、高性能、安全、稳定、可靠的技术系统 ；
+			3. 可以通过配置实现业务需求的变化，跟踪并研究最新技术并应用于产品 ；
+			4. 指导研发工程师的产品开发和技术研究工作，解决各类技术疑难问题，形成良好的研发氛围，提升团队整体技术水平。
+
+			职责要求:
+			1. 5年以上Java开发经验，2年以上架构设计经验；
+			2. 能对分布式常用技术进行合理应用，解决问题；
+			3. 精通网络编程，熟悉HTTP，TCP/IP协议；
+			4. 对数据库的基本理论和内部实现机制有深刻的理解，能够熟练应用MySQL/NoSQL，有实际大数据量的数据库设计经验；
+			5. 熟悉缓存技术，网站优化，服务器优化，集群技术处理、网站负载均衡、系统性能调优等软件编程高级技术；
+			6. 良好的逻辑思维能力，熟悉业务抽象和数据模型设计，具有很强的分析问题和解决问题的能力，对解决具有挑战性问题充满激情；
+			7. 知识面广，思路开阔，创新能力强，对新技术持有敏感性并愿意致力于新技术的探索和研究。
+
+			具备以下条件之一或以上者优先考虑
+			1、 拥有大型网游/网络应用系统架构经验优先；
+			2、 拥有大型门户网站系统架构经验优先；
+			3、 熟悉云计算平台系统架构者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>6</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10014</id>
+		<name>全职:开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41288</startDate>
+		<finishedDate>41372</finishedDate>
+		<months>2.8</months>
+		<group>mcpg</group>
+		<location>sh</location>
+		<resume_provide>21</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>3</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>职位描述
+			1、负责公司REST API各平台SDK的开发
+			2、负责SDK在各平台的编译
+			3、负责与SDK的使用方沟通协调
+			4、负责开发J2EE应用程序
+
+			任职资格
+			1、本科以上学历
+			2、两年以上工作经验
+			3、熟悉VC6，VS2005等开发环境。
+			4、熟悉windows/linux/Android/iOS库编译。
+			5、掌握跨平台编译调试技巧
+			6、熟练阅读英文文档
+			7、良好的沟通和团队协作能力
+			8、熟悉面向对象开发模式，有基于J2EE服务器应用的开发经验
+			9、开发过J2EE应用程序者优先
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10015</id>
+		<name>全职:高级UI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41351</startDate>
+		<finishedDate>41386</finishedDate>
+		<months>1.2</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>29</resume_provide>
+		<resume_passsed>11</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>职责：
+			1) 根据产品需求，定义产品界面风格与布局，完成UI设计；
+			2) 优化用户体验，提供UI资源给产品开发团队；
+			招聘要求：
+			1) 精通Visio、PS、AI等软件；
+			2) 具有良好的设计美感和扎实的设计基础；
+			3) 善于创新，对视觉设计、色彩等有敏锐的观察力和分析力；
+			4) 熟悉Windows/Mobile Phone/Tab上的UI设计；
+			5) 能提供个人作品者优先考虑；
+			6) 工作踏实，有责任心，具有良好的团队合作精神
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10016</id>
+		<name>全职:高级网络工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41009</startDate>
+		<finishedDate>41410</finishedDate>
+		<months>13.4</months>
+		<group>operation</group>
+		<location>sh</location>
+		<resume_provide>147</resume_provide>
+		<resume_passsed>69</resume_passsed>
+		<interview>44</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责
+			1. 负责视频会议、电话会议设备的调试及维护；
+			2. 负责公司员工日常IT需求及桌面支撑；
+			3. 负责公司各种服务器的维护工作。
+
+			任职资格
+			1. 全日制大学本科及以上学历，计算机相关专业；
+			2. 精通系统设计， Windows 、 Linux 的配置及性能优化；
+			3. 具有三年以上桌面支持，LAN维护的经验。熟悉LAN/WLAN相关知识，网络协议；
+			4. 熟悉主流的路由器和交换机设备，能熟练执行配置、排错和调优，确保网络稳定运行；
+			5. 对于服务器日志和流量有较好的分析和控制；
+			6. 乐于助人，良好的服务意识和交流能力；
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>2</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10017</id>
+		<name>全职:嵌入式固件优化工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41371</startDate>
+		<finishedDate>41414</finishedDate>
+		<months>1.4</months>
+		<group>atc_ii</group>
+		<location>sh</location>
+		<resume_provide>21</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>5</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>岗位职责：
+			1. 为新的硬件平台开发bootloader和firmware
+			2. 优化Linux内核和启动过程。
+			任职资格
+			1. 计算机及电子相关专业硕士及以上学历，精通C语言。
+			2. 熟悉Linux kernel基本数据结构和Linux的构建启动过程。
+			3. 熟悉ARM 架构，有嵌入式硬件基础.
+			4. 3年以上嵌入式软件开发经验，有汽车电子产品软件开发经验者优先。
+
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10018</id>
+		<name>全职:云计算工程师（服务）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41214</startDate>
+		<finishedDate>41334</finishedDate>
+		<months>4</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>50</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>8</interview>
+		<education>1</education>
+		<special>阿里巴巴等知名云计算、云服务公司</special>
+		<requirement>工作职责：
+			1、公司核心算法的云服务研发工作；
+			2、搭建云架构，提供面向各平台的云计算和服务。
+			3、高性能的服务端开发工作。
+
+			任职要求：
+			1、本科及以上学历，5年以上工作经验；
+			2、熟悉Linux/Unix平台上的C/C++或PHP编程，熟悉脚本编程；
+			3、熟悉Java；熟悉SQL编程；熟悉Js，ajax，json等相关类库或开发特点；
+			4、熟悉常用算法和数据结构，熟悉网络编程、多线程编程技术；
+			5、熟悉数据库架构和特点，有较强的存储设计能力。
+			6、具有高性能网络文件传输解决能力；具有服务器容灾处理、分布式部署能力；
+			7、有知名网络公司云计算、云服务、云存储相关经验者优先；
+			8、有大型网络服务项目的分析与设计经验者优先。
+
+			职业素质：
+			1、动手能力强、有进取心及良好的团队合作精神；
+			2、良好的沟通表达能力，设计文档能力；
+			3、较强的学习能力，解决分析问题能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>4</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10019</id>
+		<name>全职:培训讲师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40903</startDate>
+		<finishedDate>null</finishedDate>
+		<months>-1363.4</months>
+		<group>operation</group>
+		<location>nj</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>6</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>管理类培训授课经验</special>
+		<requirement>培训讲师
+			1、 管理类专业本科及以上学历；
+			2、 有良好的语言表达能力与沟通技巧；
+			3、 5年以上工作经验，3年以上管理类培训授课经验；
+			4、 能够独立完成课程、课件等授课相关资料的研发；
+			5、 思维敏捷，工作态度认真细致负责；
+			6、 富有激情，有强烈的感染力；
+			7、 控场能力强，课程中注重互动，实战经验丰富；
+			8、 有一定的教务管理经验。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>0</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10020</id>
+		<name>全职:iOS研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40973</startDate>
+		<finishedDate>41068</finishedDate>
+		<months>3.2</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>36</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>8</interview>
+		<education>1</education>
+		<special>iOS平台经验</special>
+		<requirement>岗位职责：
+			1、主要负责iOS平台下iPhone/iPad的应用开发；
+			2、独立完成iPhone/iPad软件开发，验证和修正测试中发现的问题；
+
+
+			任职资格：
+			1、一年以上iPhone/iPad或Mac应用开发经验；
+			2、具备扎实的Objective-C编程基础，良好的编程习惯；
+			3、熟悉iPhone SDK开发环境及API调用，热爱手机开发；
+			4、有App Store上架作品或相关作品者优先；
+			5、善于与人沟通，良好的团队合作精神和高度的责任感，能够承受压力，有较强的吃苦耐劳和创新精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10021</id>
+		<name>全职:iOS研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41124</startDate>
+		<finishedDate>41145</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>iOS平台经验</special>
+		<requirement>岗位职责：
+			1、主要负责iOS平台下iPhone/iPad的应用开发；
+			2、独立完成iPhone/iPad软件开发，验证和修正测试中发现的问题；
+
+
+			任职资格：
+			1、一年以上iPhone/iPad或Mac应用开发经验；
+			2、具备扎实的Objective-C编程基础，良好的编程习惯；
+			3、熟悉iPhone SDK开发环境及API调用，热爱手机开发；
+			4、有App Store上架作品或相关作品者优先；
+			5、善于与人沟通，良好的团队合作精神和高度的责任感，能够承受压力，有较强的吃苦耐劳和创新精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10022</id>
+		<name>全职:iOS研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41219</startDate>
+		<finishedDate>41363</finishedDate>
+		<months>4.8</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>iOS平台经验</special>
+		<requirement>岗位职责：
+			1、主要负责iOS平台下iPhone/iPad的应用开发；
+			2、独立完成iPhone/iPad软件开发，验证和修正测试中发现的问题；
+
+
+			任职资格：
+			1、一年以上iPhone/iPad或Mac应用开发经验；
+			2、具备扎实的Objective-C编程基础，良好的编程习惯；
+			3、熟悉iPhone SDK开发环境及API调用，热爱手机开发；
+			4、有App Store上架作品或相关作品者优先；
+			5、善于与人沟通，良好的团队合作精神和高度的责任感，能够承受压力，有较强的吃苦耐劳和创新精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>0</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10023</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41047</finishedDate>
+		<months>1.9</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>51</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>10</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10024</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41047</finishedDate>
+		<months>1.9</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>null</resume_passsed>
+		<interview>10</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10025</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41176</finishedDate>
+		<months>6.2</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>7</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10026</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41383</finishedDate>
+		<months>13.1</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>8</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10027</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41383</finishedDate>
+		<months>13.1</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>null</resume_passsed>
+		<interview>8</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10028</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41391</finishedDate>
+		<months>13.4</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>8</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10029</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41403</finishedDate>
+		<months>13.8</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10030</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41403</finishedDate>
+		<months>13.8</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>null</resume_passsed>
+		<interview>3</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10031</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41408</finishedDate>
+		<months>14</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10032</id>
+		<name>实习:图像处理算法研究员（实习）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40989</startDate>
+		<finishedDate>41408</finishedDate>
+		<months>14</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>null</resume_passsed>
+		<interview>2</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>任职要求：
+			1、硕士/博士学历，精通英语,C/C++ 编程, 数据结构；
+			2、对图像处理有一定的基础；
+			3、熟悉OpenCV图像处理算法的优先；
+			4、对计算机视觉技术和模式识别方法具有一定研究的优先。
+			实习时间要求：
+			至少半年以上的实习时间，一周至少3个工作日
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10033</id>
+		<name>全职:图像算法研究员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41354</startDate>
+		<finishedDate>41383</finishedDate>
+		<months>1</months>
+		<group>atc_i</group>
+		<location>nj</location>
+		<resume_provide>21</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>4</interview>
+		<education>2</education>
+		<special>OpenCV/图像算法</special>
+		<requirement>工作职责
+			负责或参与图像处理算法的研究并负责图像处理算法的编码实现。
+			任职要求
+			1、硕士及以上学历，图像处理、计算机视觉、模式识别相关专业研究方向；
+			2、2年以上相关工作经验；
+			3、精通C/C ；
+			4、有图像处理和增强方面的独立研发能力及项目经验；
+			5、有成功的图像处理和计算机视觉项目，或发表过相关学术论文/专利者优先；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="research"></tech>
+		<offer>2</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10034</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41011</startDate>
+		<finishedDate>41047</finishedDate>
+		<months>1.2</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>45</resume_provide>
+		<resume_passsed>11</resume_passsed>
+		<interview>11</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10035</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41011</startDate>
+		<finishedDate>41103</finishedDate>
+		<months>3.1</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10036</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41103</startDate>
+		<finishedDate>41110</finishedDate>
+		<months>0.2</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>2</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10037</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41110</startDate>
+		<finishedDate>41173</finishedDate>
+		<months>2.1</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10038</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41173</startDate>
+		<finishedDate>41264</finishedDate>
+		<months>3</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10039</id>
+		<name>实习:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41264</startDate>
+		<finishedDate>41271</finishedDate>
+		<months>0.2</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>多媒体领域，测试经验</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="intern"></tech>
+		<offer>3</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10040</id>
+		<name>全职:移动软件开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41170</startDate>
+		<finishedDate>180</finishedDate>
+		<months>#VALUE!</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>null</interview>
+		<education>1</education>
+		<special>Android</special>
+		<requirement>1， 硕士理工科毕业。 优秀的本科生也可考虑。
+			2， 熟悉C＋＋或者Java。 熟悉Android技术系统者优先。
+			3， 不论以何种形式，写过5000行以上代码。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>0</offer>
+		<exp>210</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10041</id>
+		<name>全职:高级研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40988</startDate>
+		<finishedDate>41038</finishedDate>
+		<months>1.7</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>熟悉android平台界面开发</special>
+		<requirement>任职职责：1. 熟悉C++, Java编程。
+			2. 熟悉android平台界面开发。
+			3. 两年左右应用程序开发经验。
+			4. 工作踏实认真，沟通、理解能力强，有团队合作经验者优先考虑。
+			5. 熟悉SQLite数据库或有3D建模(OpenGL)经验者优先考虑。
+			6. 本科以上学历。
+
+
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10042</id>
+		<name>全职:IT经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40862</startDate>
+		<finishedDate>41192</finishedDate>
+		<months>11</months>
+		<group>operation</group>
+		<location>nj</location>
+		<resume_provide>50</resume_provide>
+		<resume_passsed>15</resume_passsed>
+		<interview>13</interview>
+		<education>1</education>
+		<special>软件行业网络运维</special>
+		<requirement>职位描述：
+			1、负责公司信息系统、网络和硬件设备的维护；结合公司战略发展，制定信息系统基础架构标准，为公司业务发展提供全面的信息技术保障；
+			2、搭建公司信息系统安全体系，引进安全有效地管理技术和工具，明确安全管理制度规范并实施；
+			3、对信息系统的评估、选型、安装、维护提出指导性建议，并参与所有IT采购合同的决策，确保信息系统建设的规范性；
+			4、与相关部门沟通与协作，建立良好的跨部门协作支持关系、维护，支持本部门整体目标的规划和实现，并做好合理的资源调配；
+			5、领导开展部门内部的日常管理与团队建设工作，制定部门及各岗位的工作目标、工作计划，组织实施并进行监督。
+
+			岗位要求：
+			１、 计算机或IT相关专业，本科及以上学历；
+			２、 5年以上信息化管理经验，大型集团公司（400人以上）IT经理任职3年以上工作经验；
+			３、 熟练掌握微软网络技术框架、信息系统安全技术架构，具备桌面支持方面的经验；
+			４、 具备数据中心管理运维经验，熟悉通讯运营商的服务支持模式；
+			５、 具有良好的领导能力、学习能力、沟通能力、承受压力能力、独立解决问题的能力等；
+			６、 善于交流，勇于技术革新和创新，具有团队协作和敬业精神，具有强烈的服务意识、工作责任心和事业心。
+			７、 具备项目独立开发经验或有项目管理能力，熟悉一种以上的开发工具可优先考虑。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>2</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10043</id>
+		<name>全职:高级网络管理工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41192</startDate>
+		<finishedDate>null</finishedDate>
+		<months>-1373.1</months>
+		<group>operation</group>
+		<location>nj</location>
+		<resume_provide>50</resume_provide>
+		<resume_passsed>30</resume_passsed>
+		<interview>24</interview>
+		<education>1</education>
+		<special>软件行业网络运维</special>
+		<requirement>工作内容：
+			1、维护公司内部局域网软硬件系统、windows2003域服务器、cisco路由器、cisco交换机、netscreen防火墙、linux编译和代码服务器、linux开发测试机、维护公司PBX程控交换机、门禁系统、无线网络设备、文件服务器、OA服务器、打印服务器、SQL
+			数据库服务器；
+			2、内部员工IT技术支持。
+			职位需求：
+			1、扎实的网络知识，熟悉ISO/OSI七层结构；
+			2、丰富的NT2003/2008 ADS结构配置，调试，故障解决经验；
+			3、掌握exchange, IIS，FTP，ISA, VPN等系统的配置、故障解决；
+			4、精通Cisco 路由器，交换机，pix&netscreen防火墙, VOIP的配置
+			5、丰富的网络管理经验，有扎实的管理脚本(dos, js, vbs)的编写能力；
+			6、同时管理超过50台以上工作机器的实际管理经验；
+			7、有强烈的网络安全意识，高度的责任感，；
+			8、良好的沟通能力；能独立工作并具备团队合作精神及服务意识；
+			9、很强的自我学习能力；
+			10、5年以上工作经历，本科及以上学历，英语熟练；
+			11、有病毒及入侵的防范经验者，DBA的工作经验者，或者IIS&Java开发经验者优先。</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10044</id>
+		<name>全职:软件测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41019</startDate>
+		<finishedDate>41043</finishedDate>
+		<months>0.8</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>25</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special> 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</special>
+		<requirement>岗位职责：1、根据测试方案及测试用例，进行测试工作；
+			2、能协助测试经理独立开展测试工作。
+
+			任职要求：1. 理工科本科以上学历，计算机科学或软件工程专业优先考虑；
+			2.英语CET-4，具备良好的英文读写能力；
+			3. 具备缜密的逻辑思考能力以及耐心细致的观察能力，工作认真、负责、学习能力强，有创意；具有较强的沟通能力；
+			4. 熟悉各种操作系统（如：Android、WindowsMobile、Symbian等）的优先考虑；
+			5. 熟悉多媒体领域相关知识、对多媒体软件的设计具有良好的感觉，多媒体软件发烧友优先考虑；
+			6.有测试经验特别是手机软件测试经验的优先考虑；
+			7. 熟练掌握一门编程语言的优先考虑。
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>2</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10045</id>
+		<name>全职:软件测试开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41297</startDate>
+		<finishedDate>41363</finishedDate>
+		<months>2.2000000000000002</months>
+		<group>iqag</group>
+		<location>nj</location>
+		<resume_provide>40</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>灰盒测试</special>
+		<requirement>工作职责
+			1.设计开发适合公司产品的自动化测试框架、测试工具以及测试方法等；
+			2.独立或带领团队执行项目测试，包括需求讨论、设计评审、测试策略制定、分配测试资源、构建测试环境、设计并执行测试用例、进行缺陷跟踪和软件质量分析等，提高测试效率；
+			3.参与产品程序架构和代码的评审工作，并提出改进意见；
+			4.在项目中保持和项目经理、产品经理、开发工程师等成员的积极有效沟通，推动问题解决；
+			5.指导其他测试工程师解决技术难题。
+
+			任职要求
+			1. 计算机或其他相关专业本科以上学历；
+			2. 3年以上软件开发、自动化测试或灰盒测试工作经验；
+			3. 熟悉WEB技术，如DOM,HTML/CSS, JavaScript；
+			4. 精通C/C++/Java等至少一种编程语言；
+			5. 有很强的逻辑思维能力、分析能力和定位问题的能力；
+			6. 很强的学习能力和技术钻研能力，良好的沟通能力，善于团队合作；
+			7. 工作积极主动，执行能力强，努力推进问题解决。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10046</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41038</startDate>
+		<finishedDate>41075</finishedDate>
+		<months>1.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>互联网行业</special>
+		<requirement>职位描述：
+			1、负责对市场和用户需求进行分析，结合公司产品平台的发展策略，提出产品的短期、中长期发展规划；
+			2、负责商业需求梳理，输出商业需求说明书和产品DEMO，协调各部门资源推进产品的设计与开发，协同项目经理落实项目管理工作、保障产品线项目如期推进；
+			3、负责制定产品运营计划，对产品效果进行数据跟踪与分析；
+			4、持续改善产品，不断提升用户体验和产品知名度
+
+			岗位要求：
+			1、本科及以上学历，计算机、广告、媒体等相关专业，工作经验3~5年及以上；
+			2、热爱图片处理、有着不把图片处理后不分享的决心；
+			3、热爱摄影，从风景到人像通通不放过；
+			4、喜欢试用各种各样的图片处理软件、app等，设计专业出身，对图片有相当高的审美标准；
+			5、具备互联网行业工作经验，英语较好，熟悉互联网品牌推广工作；
+			6、文档编写能力过硬，有较强的语言沟通能力；
+			7、具备互联网产品策划工作，或者大规模在线业务的运营工作经验；
+			8、熟悉互联网或手机客户端软件产品、视频产品整体实现过程，包括从需求分析到产品发布。
+			9、心智成熟，能应变、处理相对复杂的沟通、协调；
+			10、对从事互联网行业充满热情和梦想，思维活跃，富有创新精神，能承受较大的工作压力；
+			11、有敏锐的市场洞察能力，有严密的逻辑分析能力，有良好的协作能力，以及一定的技术理解能力。
+			12、有移动互联网产品运营或开发相关经验者，或热切关注Win8平板发展者优先。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10047</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41038</startDate>
+		<finishedDate>41101</finishedDate>
+		<months>2.1</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>互联网行业</special>
+		<requirement>职位描述：
+			1、负责对市场和用户需求进行分析，结合公司产品平台的发展策略，提出产品的短期、中长期发展规划；
+			2、负责商业需求梳理，输出商业需求说明书和产品DEMO，协调各部门资源推进产品的设计与开发，协同项目经理落实项目管理工作、保障产品线项目如期推进；
+			3、负责制定产品运营计划，对产品效果进行数据跟踪与分析；
+			4、持续改善产品，不断提升用户体验和产品知名度
+
+			岗位要求：
+			1、本科及以上学历，计算机、广告、媒体等相关专业，工作经验3~5年及以上；
+			2、热爱图片处理、有着不把图片处理后不分享的决心；
+			3、热爱摄影，从风景到人像通通不放过；
+			4、喜欢试用各种各样的图片处理软件、app等，设计专业出身，对图片有相当高的审美标准；
+			5、具备互联网行业工作经验，英语较好，熟悉互联网品牌推广工作；
+			6、文档编写能力过硬，有较强的语言沟通能力；
+			7、具备互联网产品策划工作，或者大规模在线业务的运营工作经验；
+			8、熟悉互联网或手机客户端软件产品、视频产品整体实现过程，包括从需求分析到产品发布。
+			9、心智成熟，能应变、处理相对复杂的沟通、协调；
+			10、对从事互联网行业充满热情和梦想，思维活跃，富有创新精神，能承受较大的工作压力；
+			11、有敏锐的市场洞察能力，有严密的逻辑分析能力，有良好的协作能力，以及一定的技术理解能力。
+			12、有移动互联网产品运营或开发相关经验者，或热切关注Win8平板发展者优先。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10048</id>
+		<name>全职:嵌入式（Android）开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41060</startDate>
+		<finishedDate>210</finishedDate>
+		<months>#VALUE!</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>驱动程序开发</special>
+		<requirement>职位描述：
+			1） 负责Android/Linux智能手机的驱动程序的开发；
+			2） 参与平台设备抽象层(HAL)中间件的模块编码和测试。
+
+			职位要求：
+			1） 通信、电子、计算机、控制等专业本科及以上学历；
+			2） 具有2年以及以上Android 项目开发经验
+			2） 熟知ARM体系结构、熟悉Linux嵌入式操作系统，精通Linux下C/C++开发；
+			3） 具备手机等相关嵌入式产品驱动程序开发调试经验；
+			4） 有较好的英语水平，善于阅读技术文档；
+			5） 工作积极主动，具有热情，较强的表达及沟通能力，和有良好的团队合作和创新精神；
+			具有以下开发经验者优先：
+			1） Android智能手机的Linux驱动开发经验；
+			2） Qualcomm平台驱动开发经验；
+			3） Camera,LCD,Audio,Touch,Wifi,电源管理等方面驱动开发经验；
+			4） Linux智能手机开发经验。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10049</id>
+		<name>全职:Mac研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41264</startDate>
+		<finishedDate>41363</finishedDate>
+		<months>3.3</months>
+		<group>cpsg</group>
+		<location>nj</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>0</resume_passsed>
+		<interview>0</interview>
+		<education>1</education>
+		<special>二年以上Mac平台开发经验；</special>
+		<requirement>岗位职责：
+			1、 参加Mac平台下多媒体应用软件开发；
+			2、 负责软件系统的功能模块设计、核心代码开发以及关键技术的预研与攻关, 解决项目开发或产品研发中的技术难题；
+			3、 根据项目需要快速学习并掌握新技术；
+			4、 与相关人员沟通配合，与团队中其他成员交流相关信息。
+			岗位要求：
+			1、 计算机或相关专业本科及以上学历。
+			2、 二年以上Mac平台开发经验；
+			3、 有多媒体相关的开发经验；
+			4、 熟悉MAC平台上Object-C及Xcode工具；
+			5、 精通Cocoa框架编程、对Quartz 2D、opengl熟悉者、有编解码开发经验优先；
+			6、 对工作充满激情，学习能力强，有强烈的责任感与进取心。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>0</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10050</id>
+		<name>全职:公共关系经理/总裁办助理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41339</startDate>
+		<finishedDate>null</finishedDate>
+		<months>-1378</months>
+		<group>operation</group>
+		<location>nj</location>
+		<resume_provide>null</resume_provide>
+		<resume_passsed>null</resume_passsed>
+		<interview>9</interview>
+		<education>1</education>
+		<special>政府公关经验，项目申报</special>
+		<requirement>职位描述
+			1.协助公司开拓、维护相关政府部门关系；组织和实施与政府有关的活动，通过各种形式推动公司与政府之间的互动交流与合作，为公司发展创造良好的人脉资源与环境；
+			2.负责政府项目、资金等地申报，收集申报渠道、政策等信息，撰写项目申报材料，申报、协调并跟踪管理政府项目，确保公司充分、正确运用国家及当地政策；
+			3.收集、整理政府相关政策，为公司发展争取相关政策扶持；
+			4.负责公司的政府项目申报工作，能够掌握较多政府各层级信息，为公司争取有利资源，申请各类政府项目资助基金；
+			5. 协助完成各种会议、活动的统筹安排及执行；
+			6.积极宣传公司品牌，树立良好的企业形象；
+			7.独立完成上级主管交付的其他各项工作任务。
+			8. 负责公司重要来宾的参观、接待和管理工作
+
+			任职资格
+			1、市场营销、公共关系、行政管理、工商管理等相关专业本科以上学历；
+			2、擅长人际交往，具有良好的沟通技巧和语言表达能力，协调能力，性格开朗，积极主动、有进取心，心细有耐心；
+			3、有一定的文字功底、有相关文案撰写能力；
+			4、两年以上政府事务、公共关系经验，能够积极拓展、维系与相关政府部门的关系
+			5、熟悉相关政府部门办事流程，了解行业相关管理法规；
+			6、配合度高、执行力强、有独当一面的工作能力；
+			7、综合素质优秀、谈吐大方、个人形象气质佳；
+
+			优先条件
+			1、有高科技类企业工作经验者优先；
+			2、有相关政府部门工作经验者优先考虑。
+
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>0</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10051</id>
+		<name>实习:Office开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41348</startDate>
+		<finishedDate>41358</finishedDate>
+		<months>0.3</months>
+		<group>mcpg</group>
+		<location>nj</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>Office</special>
+		<requirement>Office开发</requirement>
+		<tech select="intern"></tech>
+		<offer>1</offer>
+		<exp>0</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10052</id>
+		<name>全职:行政主管</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41355</startDate>
+		<finishedDate>null</finishedDate>
+		<months>null</months>
+		<group>operation</group>
+		<location>nj</location>
+		<resume_provide>30</resume_provide>
+		<resume_passsed>20</resume_passsed>
+		<interview>15</interview>
+		<education>1</education>
+		<special>行政管理经验，软件相关行业</special>
+		<requirement>职位职责：
+			1、负责公司相关行政文件的起草及项目资料的报送；
+			2、员工签证办理、出差票务安排、住宿预定等；
+			3、参与制定公司行政管理制度、完善和细化办公管理体系和业务流程；
+			4、执行公司年度行政计划，控制行政费用；
+			5、组织、协调安排公司的各种会议及大型活动；
+			6、购置办公设备、办公用品，安排人员管理和发放，管理公文、行政档案、证章、等重要资料；
+			7、管理公共环境卫生和安全；
+			8、合理调度公务用车，安排车辆的维修与保养；
+			9、在各种行政事务方面帮助和服务于公司员工；
+			10、协助对外联络与接待工作；
+			11、上级交办的其他工作。
+
+			职位要求：
+			1、3-5年以上行政主管工作经验；
+			2、熟悉行政工作流程，办公用品采购流程，公务车管理；
+			3、熟练使用办公软件和办公自动化设备；
+			4、外貌端庄，举止得体。性格细致，为人诚实。富有团队合作精神与专注的执行力；
+			5、较强的责任心和敬业精神，良好的组织协调能力及沟通能力，较强的分析、解决问题能力，极具服务意识，能承受一定的工作压力；
+			6、行政管理、企业管理等相关专业本科学历；英语佳者优先考虑。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>0</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10053</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41080</startDate>
+		<finishedDate>285</finishedDate>
+		<months>5.8</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>云端，互联网</special>
+		<requirement>工作职责：
+			1、对负责的雲端产品进行整体规划，分析市场占有率，确定技术发展方向，提出相应的资源和推广计划；
+			2、参与产品的市场推广和客户交流，配合销售部门的售前工作；
+			3、定期参加产品例会，了解竞争对手情况，调整产品策略，组织所属产品的技术攻关工作；
+			4、针对不同客户建立不同的解决方案，确定主要客户市场和销售定价策略；
+			5、管理所属产品的在建项目，协调相关资源，保障项目顺利完成和交付；
+			6、负责产品投资报酬率(ROI)。
+			任职要求：
+			1、3年以上互联网从业经验，熟悉互联网或软件产品整体实现过程，包括从需求分析到产品发布；
+			2、熟悉PC，消费类电子产品，微软Windows相关的PC软件，Android应用程序等，有Linux背景者优先；
+			3、有云端产品相关开发经验者优先；
+			4、有软件产品开发经验者优先。
+			职业素质：
+			1、对工作充满热情，富有创新精神，能承受较大的工作压力；
+			2、较强的产品原型设计能力，优秀的资料分析能力，调研访谈能力；
+			3、具有良好的沟通能力、推动能力、协调能力、理解能力，具有强烈的责任心和团队合作精神。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10054</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40959</startDate>
+		<finishedDate>287</finishedDate>
+		<months>1</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10055</id>
+		<name>全职:游戏策划师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41011</startDate>
+		<finishedDate>289</finishedDate>
+		<months>2.1</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>18</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>游戏公司</special>
+		<requirement>工作职责:
+			1、负责游戏的整体设计和规划；
+			2、负责与程序、美工等部门的协调与沟通。
+
+			任职要求：
+			1、具有1年以上游戏策划工作经验，熟悉游戏制作的流程及相关环节；
+			2、具有良好的逻辑思维能力，熟悉单机及网络游戏的各类功能系统设计，有数值调整及游戏系统设计工作的经验和心得；
+			3、较强的学习能力、沟通协调能力；善于表述，能正确清晰阐述自己设计思想及设计细节，同时能够接纳其他成员的建议，根据需求提高策划质量；
+			4、了解、掌握整个游戏产品开发工作流程（包括测试流程）；能独立书写标准化游戏设计文档，并在策划中适应和强化游戏引擎能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10056</id>
+		<name>全职:Web开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41050</startDate>
+		<finishedDate>291</finishedDate>
+		<months>1.6</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>44</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、公司内部系统（B/S结构，Asp.net语言）功能的设计、开发及维护；
+			2、公司网站的管理、业务功能模块的设计，开发及维护；
+			3、制定相关功能的技术方案，并能按业务部门的要求完成开发工作。
+
+			任职要求：
+			1、计算机相关专业，本科及以上学历，3年以上Asp.net工作经验；
+			2、精通Asp.net（C#）开发，熟悉.Net，Framework技术体系架构，熟悉多层架构开发；
+			3、熟悉HTML、DIV+CSS、XML，了解Ajax、Web Service等相关技术；
+			4、熟练掌握SqlServer数据库的开发，熟练编写存储过程、函数，精通SQL联合查询；
+			5、熟练编写JS脚本，对jquery有较深的认知和应用能力；
+			6、具有较强的学习能力、解决问题能力、创新能力和逻辑思维能力，不断寻求更好的方式改善代码重用性以加快开发进度；
+			7、具有良好的沟通表达能力和团队合作精神，积极主动，认真负责，能承受高强度工作压力，良好的手写代码、技术文档编写规范习惯。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>4</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10057</id>
+		<name>全职:Windows开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40940</startDate>
+		<finishedDate>282</finishedDate>
+		<months>1</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			Windows C++桌面应用开发、适配和维护。
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、英语CET-4以上，具备良好的英文读写能力；
+			3、精通C++基础语法及标准库、有良好的编码习惯；
+			4、思维敏捷，沟通良好；
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10058</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41108</startDate>
+		<finishedDate>293</finishedDate>
+		<months>2.2999999999999998</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10059</id>
+		<name>全职:算法工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40954</startDate>
+		<finishedDate>294</finishedDate>
+		<months>2.2999999999999998</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责或参与图像处理算法的研究并负责图像处理算法的编码实现。
+
+			任职要求：
+			1、硕士及以上学历，图像处理、计算机视觉、模式识别相关专业研究方向；
+			2、2年以上相关工作经验；
+			3、精通C/C++；
+			4、有图像处理和增强方面的独立研发能力及项目经验；
+			5、有成功的图像处理和计算机视觉项目，或发表过相关学术论文/专利者优先；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="research"></tech>
+		<offer>2</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10060</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41214</startDate>
+		<finishedDate>295</finishedDate>
+		<months>0.5</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10061</id>
+		<name>全职:Web开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41050</startDate>
+		<finishedDate>41078</finishedDate>
+		<months>0.9</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>44</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、公司内部系统（B/S结构，Asp.net语言）功能的设计、开发及维护；
+			2、公司网站的管理、业务功能模块的设计，开发及维护；
+			3、制定相关功能的技术方案，并能按业务部门的要求完成开发工作。
+
+			任职要求：
+			1、计算机相关专业，本科及以上学历，3年以上Asp.net工作经验；
+			2、精通Asp.net（C#）开发，熟悉.Net，Framework技术体系架构，熟悉多层架构开发；
+			3、熟悉HTML、DIV+CSS、XML，了解Ajax、Web Service等相关技术；
+			4、熟练掌握SqlServer数据库的开发，熟练编写存储过程、函数，精通SQL联合查询；
+			5、熟练编写JS脚本，对jquery有较深的认知和应用能力；
+			6、具有较强的学习能力、解决问题能力、创新能力和逻辑思维能力，不断寻求更好的方式改善代码重用性以加快开发进度；
+			7、具有良好的沟通表达能力和团队合作精神，积极主动，认真负责，能承受高强度工作压力，良好的手写代码、技术文档编写规范习惯。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>4</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10062</id>
+		<name>全职:C/C++开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41108</startDate>
+		<finishedDate>297</finishedDate>
+		<months>3.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>37</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			Windows C++桌面应用开发、适配和维护。
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、英语CET-4以上，具备良好的英文读写能力；
+			3、精通C++基础语法及标准库、有良好的编码习惯；
+			4、思维敏捷，沟通良好；
+			5、熟悉Windows API，对Windows 操作系统原理有较深刻的理解。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>3</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10063</id>
+		<name>全职:Linux运维工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40976</startDate>
+		<finishedDate>298</finishedDate>
+		<months>3</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>38</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>15</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、对生产环境的服务器进行部署及优化；
+			2、监控系统的搭建及维护，结合实际的生产环境进行监控；
+			3、开发自动化运维脚本，配合监控系统，优化整个运维的流程；
+			4、对数据库系统进行常规的维护操作；
+			5、负责公司内部开发/测试服务器的运行管理工作；
+			6、编写运维相关的技术文档
+
+			任职要求：
+			1、3年以上Unix/Linux系统管理经验（CentOS或RHEL优先）；
+			2、3年以上Apache经验：模块，虚拟主机，性能优化；
+			3、3年以上MySQL数据库经验；
+			4、精通Astaro，Riverbed和其他网络设备：配置交换机和路由器，中继，防火墙管理，负载均衡；
+			5、熟练使用Shell或其他语言进行Unix系统编程；
+			6、熟悉DNS，LDAP，SMTP，SSH/SSL，NTP，包管理，TCP/IP，卷标管理/文件系统等等；
+			7、了解Windows Server知识；
+			8、较强的文档组织编写能力；
+			9、良好的沟通能力、团队精神和服务意识，具备独立解决问题的能力；
+			10、有以下经验者优先：
+			 开源监控和预警系统经验（Nagios，Cacti等）
+			 虚拟化经验（VMWare，VirtualBox等）
+			 系统管理工具经验（puppet，cfengine等）
+			 数据库经验（MySQL, MongoDB，NoSQL等）
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10064</id>
+		<name>全职:高级数据分析师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41128</startDate>
+		<finishedDate>299</finishedDate>
+		<months>7.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>26</resume_provide>
+		<resume_passsed>12</resume_passsed>
+		<interview>9</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、对海量业务数据进行分析，挖掘用户行为特征，构建用户精准营销的指标体系；
+			2、针对具体的业务与产品，规划、设计基于数据挖掘的解决方案，对客户行为及市场销售产品数据进行深度挖掘和数据清洗；
+			3、基于数据分析结果开展相应的模型搭建；
+			4、根据研发的数据模型对客户行为进行模型验证并不断优化模型。
+
+			任职要求：
+			1、计算机、统计学、数学等相关专业，1年以上数据分析、挖掘相关工作经验；
+			2、熟悉电子商务、软件行业数据挖掘背景、了解市场特点及用户需求；
+			3、具有深厚的统计学、数据挖掘知识，熟悉数据仓库和数据挖掘的相关技术，能够熟练使用SQL；
+			4、对商业和业务逻辑敏感，具备良好的逻辑分析能力、组织沟通能力和文字表达能力及团队合作精神；
+			6、有互联网相关行业背景，有网站用户行为研究和文本挖掘经验者优先；
+			7、具有海量数据挖掘、分析相关项目实施的工作经验，能够独立完成挖掘项目的规划与实施者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10065</id>
+		<name>全职:Web开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41050</startDate>
+		<finishedDate>301</finishedDate>
+		<months>2.2000000000000002</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>44</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、公司内部系统（B/S结构，Asp.net语言）功能的设计、开发及维护；
+			2、公司网站的管理、业务功能模块的设计，开发及维护；
+			3、制定相关功能的技术方案，并能按业务部门的要求完成开发工作。
+
+			任职要求：
+			1、计算机相关专业，本科及以上学历，3年以上Asp.net工作经验；
+			2、精通Asp.net（C#）开发，熟悉.Net，Framework技术体系架构，熟悉多层架构开发；
+			3、熟悉HTML、DIV+CSS、XML，了解Ajax、Web Service等相关技术；
+			4、熟练掌握SqlServer数据库的开发，熟练编写存储过程、函数，精通SQL联合查询；
+			5、熟练编写JS脚本，对jquery有较深的认知和应用能力；
+			6、具有较强的学习能力、解决问题能力、创新能力和逻辑思维能力，不断寻求更好的方式改善代码重用性以加快开发进度；
+			7、具有良好的沟通表达能力和团队合作精神，积极主动，认真负责，能承受高强度工作压力，良好的手写代码、技术文档编写规范习惯。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>4</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10066</id>
+		<name>全职:开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41323</startDate>
+		<finishedDate>302</finishedDate>
+		<months>0.5</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>任职要求：
+			1、本科以上学历，计算机相关专业，熟悉C/C++；
+			2、了解Windows的消息机制；
+			3、良好的面向对象分析、设计能力、规范的编程风格和良好的文档习惯；
+			4、高度的责任感；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10067</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41064</startDate>
+		<finishedDate>284</finishedDate>
+		<months>0.9</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10068</id>
+		<name>全职:云计算工程师（服务）</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41064</startDate>
+		<finishedDate>303</finishedDate>
+		<months>8.9</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>26</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>11</interview>
+		<education>1</education>
+		<special>阿里巴巴等知名云计算、云服务公司</special>
+		<requirement>工作职责：
+			1、公司核心算法的云服务研发工作；
+			2、搭建云架构，提供面向各平台的云计算和服务。
+			3、高性能的服务端开发工作。
+
+			任职要求：
+			1、本科及以上学历，5年以上工作经验；
+			2、熟悉Linux/Unix平台上的C/C++或PHP编程，熟悉脚本编程；
+			3、熟悉Java；熟悉SQL编程；熟悉Js，ajax，json等相关类库或开发特点；
+			4、熟悉常用算法和数据结构，熟悉网络编程、多线程编程技术；
+			5、熟悉数据库架构和特点，有较强的存储设计能力。
+			6、具有高性能网络文件传输解决能力；具有服务器容灾处理、分布式部署能力；
+			7、有知名网络公司云计算、云服务、云存储相关经验者优先；
+			8、有大型网络服务项目的分析与设计经验者优先。
+
+			职业素质：
+			1、动手能力强、有进取心及良好的团队合作精神；
+			2、良好的沟通表达能力，设计文档能力；
+			3、较强的学习能力，解决分析问题能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10069</id>
+		<name>全职:客服专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40948</startDate>
+		<finishedDate>294</finishedDate>
+		<months>2.5</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>英语</special>
+		<requirement>工作职责：
+			1、为全球客户提供高质量的IT技术服务；
+			2、提供24小时的产品咨询在线服务；
+			3、支持，解答，协调客户或者研发部门产生的IT技术事宜；
+			4、定期进行数据分析，并提供相关报告。
+
+			任职要求：
+			1、具有本科及以上学历，专业不限；
+			2、有志于从事IT软件行业及客户服务行业；
+			3、熟练的英文听说及运用能力；
+			4、具有较强的语言沟通能力及技术协调能力，拥有良好的团队合作精神；
+			5、思维敏捷，较强的逻辑思维，能够快速掌握各种软件系统的主要应用价值及使用操作。
+		</requirement>
+		<tech select="service"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10070</id>
+		<name>全职:美妆编辑</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41211</startDate>
+		<finishedDate>306</finishedDate>
+		<months>1.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>31</resume_provide>
+		<resume_passsed>20</resume_passsed>
+		<interview>17</interview>
+		<education>1</education>
+		<special>文字能力</special>
+		<requirement>工作职责：
+			1、配合产品负责网络信息的搜集、编辑、整理、审校、更新；
+			2、负责网站内容的日常维护；
+			3、负责使用软件对妆容模板的还原制作；
+			4、关注市场需求，策划选题及持续改进内容提供，把用户需求和网站、软件内容高度粘合；
+			5、在线处理用户问答解疑。
+
+			任职要求：
+			1、大专以上学历，专业不限；
+			2、有较高的文字整合能力；
+			3、思路灵活、具备较好的女性市场资讯收集和判断力，及各类热点信息潮流资讯有敏锐触觉；
+			4、较高的职业素养、工作责任心强，擅于沟通；
+			5、有女性网站编辑经验或对彩妆特别有兴趣和了解的优先考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10071</id>
+		<name>全职:C/C++开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41053</startDate>
+		<finishedDate>307</finishedDate>
+		<months>2.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>37</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			Windows C++桌面应用开发、适配和维护。
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、英语CET-4以上，具备良好的英文读写能力；
+			3、精通C++基础语法及标准库、有良好的编码习惯；
+			4、思维敏捷，沟通良好；
+			5、熟悉Windows API，对Windows 操作系统原理有较深刻的理解。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>3</offer>
+		<exp>487</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10072</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40960</startDate>
+		<finishedDate>282</finishedDate>
+		<months>0.3</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10073</id>
+		<name>全职:嵌入式开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40960</startDate>
+		<finishedDate>308</finishedDate>
+		<months>0.7</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>嵌入式</special>
+		<requirement>工作职责：
+			1、嵌入式平台上的产品开发；
+			2、根据需求完成从概要设计到编码。
+
+			任职要求：
+			1、本科3年以上，研究生1年以上工作经验，具备良好的英文听说读写能力；
+			2、熟悉嵌入式开发，精通C/C++，熟悉java；
+			3、熟悉Linux操作系统，有Linux底层开发或Android产品开发者（触摸屏、以太网等）优先；
+			4、具有较强的学习能力、良好的沟通及团队合作意识、解决分析问题能力；
+			5、了解基本图像知识者优先；
+			6、对嵌入式CPU（包括但不限于ARM/X86/MIPS/DSP等等）体系架构熟悉者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10074</id>
+		<name>全职:算法工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40955</startDate>
+		<finishedDate>310</finishedDate>
+		<months>8.8000000000000007</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>1</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责或参与图像处理算法的研究并负责图像处理算法的编码实现。
+
+			任职要求：
+			1、硕士及以上学历，图像处理、计算机视觉、模式识别相关专业研究方向；
+			2、2年以上相关工作经验；
+			3、精通C/C++；
+			4、有图像处理和增强方面的独立研发能力及项目经验；
+			5、有成功的图像处理和计算机视觉项目，或发表过相关学术论文/专利者优先；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="research"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10075</id>
+		<name>全职:视频研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41033</startDate>
+		<finishedDate>311</finishedDate>
+		<months>3.4</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>6</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>DirectShow</special>
+		<requirement>工作职责：
+			1、从事Desktop视频多媒体技术的研究或产品研发工作
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业，精通C/C++；
+			2、精通Windows编程，熟悉Windows消息处理机制以及Windows控件的操作和实现；
+			3、有DirectShow相关开发经验者优先；
+			4、熟悉Windows DDK，有相关Driver开发经验者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10076</id>
+		<name>全职:数据库管理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41128</startDate>
+		<finishedDate>312</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>6</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、网站数据库系统的日常运维及监控；
+			2、数据库性能优化及调优；
+			3、定期检查数据库日志；
+			4、对其它团队的数据库结构设计作出良好建议，以改进其结构，提高系统性能和开发效率。
+
+			任职要求：
+			1、本科及以上学历，2年以上相关工作经验；
+			2、具有扎实的数据库理论知识；
+			3、精通MSSQL，MYSQL数据库系统的配置、管理、备份、性能优化、复制、集群等维护；
+			4、精通数据库表、视图、存储过程、触发器、索引等对象的开发及维护；
+			5、有数据仓库、数据挖掘工作经验者优先；
+			6、有NOSQL数据库管理经验者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10077</id>
+		<name>全职:商务经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41243</startDate>
+		<finishedDate>313</finishedDate>
+		<months>1.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>17</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、制定和规划公司品牌推广计划，牵头落实公司品牌运营方面推广活动；
+			2、通过各种推广，提升公司品牌认知度和美誉度；
+			3、公司整体网络市场推广策略的制定，实施和效果评估。
+			任职要求：
+			1、计算机、广告、媒体等相关专业，本科及以上学历；
+			2、3-5年互联网行业工作经验，熟悉互联网品牌推广工作；
+			3、有成功的互联网品牌运营、推广案例和经验或大规模在线业务的运营工作经验；
+			4、对重要合作广告厂商或者网站媒体进行开拓、沟通与管理，制定合作方案，达成网络广告推广投放合作；
+			5、及时沟通客户，反馈市场信息，做出处理意见；
+			6、英语较好，思路清楚、有良好的沟通能力，性格开朗；有良好的团队合作精神及独立工作能力。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10078</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>282</startDate>
+		<finishedDate>282</finishedDate>
+		<months>0</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>多媒体行业</special>
+		<requirement>工作职责：
+			1、对负责的产品进行整体规划，确定发展方向，完成产品功能设计，提出相应的资源和推广计划；
+			2、进行用户研究及行业动态跟踪，持续优化产品策略；
+			3、根据用户特点和竞争情况，确定销售定价及促销策略；
+			4、参与产品的市场推广和运营，配合营销和运营部门的工作；
+			5、管理所属产品的研发项目，协调相关资源，保障项目顺利完成；
+			6、负责产品投资报酬率(ROI)。
+			任职要求：
+			1、本科及以上学历，计算机及营销类相关专业优先；
+			2、3年以上工作经验，1年以上产品管理或营销经验，有产品原型设计经历者优先；
+			3、熟悉并热爱多媒体应用类软件及(移动)互联网行业，具有优秀的资料分析能力和调研访谈能力；
+			4、熟悉多媒体应用类软件及互联网产品的整体实现过程，有软件产品开发经验者优先；
+			5、较强的创新思维和逻辑思维能力；
+			6、良好的沟通、协调能力以及强烈的责任心和团队合作精神。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10079</id>
+		<name>全职:网站编辑</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41075</startDate>
+		<finishedDate>284</finishedDate>
+		<months>0.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>12</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>英语，互联网</special>
+		<requirement>工作职责：
+			1、针对产品及市场进行内容策划创作、采集、编辑、撰写工作，不失用户体验的融入SEO技巧；
+			2、编写产品宣传资料及相关产品资料，网站内容建设，独自撰写产品推广软文，起草各种广告文案；
+			3、协助网站的宣传和营销活动的文案策划。
+			任职要求：
+			1、1年以上B2B或B2C海外网站编辑工作经验，并且成功策划过专题；
+			2、较强的文字功底，较强的创意、策划能力，良好的文字表达能力，思维敏捷；
+			3、计算机、日语、市场营销、电子商务及相关专业，熟练的英语读写能力；
+			4、能适应一定的加班，有很好的团队合作能力；
+			5、爱好摄影、图像相关领域的，优先考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10080</id>
+		<name>全职:视频研发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40959</startDate>
+		<finishedDate>315</finishedDate>
+		<months>0</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>DirectShow</special>
+		<requirement>工作职责：
+			1、从事Desktop视频多媒体技术的研究或产品研发工作
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业，精通C/C++；
+			2、精通Windows编程，熟悉Windows消息处理机制以及Windows控件的操作和实现；
+			3、有DirectShow相关开发经验者优先；
+			4、熟悉Windows DDK，有相关Driver开发经验者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10081</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41228</startDate>
+		<finishedDate>316</finishedDate>
+		<months>2</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>21</resume_provide>
+		<resume_passsed>16</resume_passsed>
+		<interview>14</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10082</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>303</startDate>
+		<finishedDate>303</finishedDate>
+		<months>0</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10083</id>
+		<name>全职:FPGA开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40872</startDate>
+		<finishedDate>317</finishedDate>
+		<months>1.3</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>电子，硬件</special>
+		<requirement>工作职责：
+			1、对图象、视频处理类的相关算法进行硬件需求分析，结构设计、子模块划分以及代码编写；
+			2、编写测试向量，进行模块的仿真验证、以及系统集成仿真；
+			3、利用FPGA开发工具完成硬件设计的综合、实现，并进行FPGA调试；
+			4、撰写相关的技术文档。
+
+			任职要求：
+			1、电子、通信、自动化等专业，本科2年以上，研究生1年以上工作经验，具备良好的英文听说读写能力；
+			2、具有FPGA或ASIC设计和集成方面的经验，熟练使用相关的EDA开发工具(Modelsim、Synplify、DC等)，有IP集成和开发经验者优先；
+			3、精通Verilog HDL/VHDL硬件编程语言，具有良好的编码风格；
+			4、具有良好的数字电路基础，能够独立完成模块的设计，编写测试向量并进行模块仿真验证；
+			5、熟悉Xilinx或Altera的FPGA，能够熟练利用EDA工具进行硬件设计的综合、实现和FPGA调试；
+			6、熟悉C语言，能看懂C代码。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10084</id>
+		<name>全职:在线合作</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40956</startDate>
+		<finishedDate>281</finishedDate>
+		<months>1.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>岗位描述：
+			1、按照部门全年任务指标，分阶段完成业务拓展任务；定期提交商务合作及业务拓展的分析报告；
+			2、负责部门各产品线的客户资源开发和商务合作，能够进行相关的商务合作模式的研究和分析，负责产品对外合作的方案制定、商务谈判、项目跟进、实施完成及效果评估；
+			3、能够合理有效利用公司内外资源，根据合作伙伴业务特点制定相应合作模式和营销推广活动，达到预定的推广目的，带来实际注册用户量或销售业绩；
+			4、对不同行业渠道及合作伙伴进行有效且多角度的拓展，达成品牌及商业活动上的共赢。
+			任职要求：
+			1、本科及以上学历，3年以上商务合作相关工作经验或2年以上美洲市场互联网商务合作经验；
+			2、有较强的英文表达能力及写作能力，有英语国家生活经验，留学经验者优先；
+			3、熟悉中高端用户行为模式，具备较好的数据分析能力及合作方案的策划、制作能力；
+			4、有精准渠道合作资源，有丰富合作经验者优先。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10085</id>
+		<name>全职:综合秘书</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40982</startDate>
+		<finishedDate>318</finishedDate>
+		<months>1.4</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>24</resume_provide>
+		<resume_passsed>13</resume_passsed>
+		<interview>11</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、事业中心基础人事行政助理工作（包括会议纪要整理、员工关系维护、招聘/培训工作组织协调等）；
+			2、负责各事业中心之间工作对接，组织和参与事业中心相关公共关系活动；
+			3、领导安排的其他任务。
+
+			任职资格：
+			1、计算机、中文、文秘、人力资源管理、行政管理、企业管理等相关专业，本科以上学历；
+			2、具有与岗位相匹配的知识结构，具有较强的文字处理和写作归纳能力，能独立进行信息收集、分析等工作；
+			3、善于学习，具有较强的客户服务意识、团队协作意识和创新意识；
+			4、诚实守信，待人热情，爱岗敬业，工作严谨，坚持原则，责任心强，具有良好的沟通协调力和领悟力；
+			5、具备基本的英语书面、口语沟通表达能力；
+			6、相关岗位1年以上工作经验。
+		</requirement>
+		<tech select="manager"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10086</id>
+		<name>全职:测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40897</startDate>
+		<finishedDate>319</finishedDate>
+		<months>1.8</months>
+		<group>iqag</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责业务线产品需求分析，利用相关方法和工具进行软件测试分析，独立或带领团队执行项目测试，包括需求讨论、设计评审、测试策略制定、测试方案设计等；
+			2、负责项目过程数据收集分析，提出业务线持续改进意见；
+			3、利用平台工具实施快速测试，实现敏捷测试，快速解决项目问题，提高产品质量；
+			4、负责制定自动化测试策略，实现自动化测试用例，提高测试效率；
+			5、参与产品线产品规划、产品设计，对产品提出建设性意见，提升产品用户体验。
+
+			任职要求：
+			1、本科及以上学历，计算机或相关专业；
+			2、3年以上相关工作经验，掌握软件测试理论、方法、工具，了解敏捷测试方法；
+			3、有很强的逻辑思维能力，思维严谨；
+			4、很强的学习能力和技术钻研能力，良好的沟通能力，善于团队合作；
+			5、工作积极主动，执行能力强，能努力推进问题解决；
+			6、精通互联网应用技术、移动互联网技术或相关网络协议等网络相关的测试技术者优先；
+			7、对产品设计及用户体验方面有成功经验，能深刻理解并较好运用者优先。
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10087</id>
+		<name>全职:市场总监</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41324</startDate>
+		<finishedDate>320</finishedDate>
+		<months>0</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>广电行业</special>
+		<requirement>定向猎取：定点公司：
+			北京中科大洋科技发展股份有限公司;北京强氧,索贝数码科技股份有限公司;大连捷成实业发展有限公司;要求：
+			熟悉中国的电视台，大型视频网站，大型企业的电视台等相关的设备采购流程，熟悉相应的采购渠道，优先考虑有非编系统市场经验的人员，并且有相应的市场的人脉关系。待遇优厚。
+			可以是Manager level的，也可以是Director Level的。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10088</id>
+		<name>全职:交互设计</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40962</startDate>
+		<finishedDate>322</finishedDate>
+		<months>2.5</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>4</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品的交互逻辑设计；
+			2、按规范标准，完成UI Flow设计文档。
+
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、精通Visio等流程图制作工具，熟悉使用Flash描述流程者优先；
+			3、对用户行为习惯、实际需求有深入的研究，并能结合产品实际需求和定位，设计易用的交互逻辑；
+			4、良好的逻辑思维能力和表达能力；
+			5、良好的沟通能力和团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>516</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10089</id>
+		<name>全职:营销专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41051</startDate>
+		<finishedDate>323</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>4</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责对产品进行直观，感性，富有吸引力的描述，切实提高商品的转换率；
+			2、参与相关文案工作，协同设计师完成广告海报的主题与软文制作；
+			3、负责网店产品标题的编辑和修改等；
+			4、以销售产品为对象，分析客户需求，挖掘产品亮点与卖点，从事商品具体内容的策划和编辑，使商品描述实现多样化、内容化、品牌化；
+			5、协助线上活动的企划与执行，配合网店的运营及交易的顺畅；
+			6、为企划的活动做数据整理及分析，为各部门提供相关参考依据。
+			任职要求：
+			1、本科及以上学历，女性优先，2年以上英文网站编辑工作经验；
+			2、具备优秀的文案编辑、组织、整理和撰写的能力；
+			3、热爱文案策划工作，有创意激情，具有敏锐的市场洞察力、独特的视角和新颖、开阔的创意思维；
+			4、对网络SNS媒体、新闻热点有一定敏感度，有视频Demo制作经验、对化妆有研究的优先考虑；
+			5、市场营销/电子商务专业优秀应届毕业生亦可接受。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>3</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10090</id>
+		<name>全职:德语商务专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41156</startDate>
+		<finishedDate>324</finishedDate>
+		<months>1.4</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>9</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>德语，互联网，电子商务</special>
+		<requirement>工作职责：
+			1、面向德语市场，根据年度销售计划，负责部门各产品线的客户资源开发和商务合作，能够进行相关的商务合作模式的研究和分析，负责产品对外合作的方案制定、商务谈判、项目跟进、实施完成及效果评估；
+			2、负责德语网站的改版、文案优化、推广等工作；
+			3、协助进行调研、策划等工作。
+
+			任职要求：
+			1、全日制德语本科毕业，须通过德语B2，通过C1的优先考虑；
+			2、良好的德语读写能力，至少两年以上商务合作相关工作经验；
+			3、沟通能力强、热爱互联网和软件行业；
+			4、有在德国当地工作经历者优先考虑；
+			5、英语六级优先考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10091</id>
+		<name>全职:营销经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41233</startDate>
+		<finishedDate>325</finishedDate>
+		<months>0.2</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责公司产品的特点全面网络推广工作，根据市场状况和产品运营模式制定可行性、阶段性的产品网络推广策略，推进并监督整体实施过程；
+			2、营销预算及费用管理，根据所负责的业务线制定年度、季度、月度运营推广方案，跟踪并反馈效果，对实施效果负责；
+			3、熟练利用各种资源，包括Forum/SNS/Blog/Coupon/EDM/SEO/SEM/活动/等，进行整合营销，引入高质量的流量，促进业绩增长；
+			4、分析并把握各种类型的客户需求，针对客户需求开展网站和产品优化调整；
+			5、根据产品特色和潜在客户需求挖掘，阶段性、季节性地策划各类互动营销活动，协力达成各项运营指标；
+			6、根据推广效果数据报告，不断优化营销方案和推广技巧，不断优化ROI。
+
+			任职要求：
+			1、大专及以上学历，3年以上电子商务营销推广经验，1年以上的欧美电子商务公司相关从业经验，MBA或有欧美/澳纽留学背景者优先；
+			2、具有丰富的电子商务B2C的网站策划/运营/用户体验/SEO优化/营销推广等经验，成绩显著；
+			3、精通搜索引擎优化SEO的原理和策略，熟悉各种优化工具，熟练网络应用技巧：论坛，博客，Facebook，Twitter;
+			4、对欧美电子商务的运作模式有较为深刻的理解，有较强的目标客户分析能力和产品架构规划能力；
+			5、对各主流线上推广媒体有深入的了解和丰富的实践经验，能够独立策划并执行相关推广及营销活动；
+			6、具备独特的产品、用户心理分析能力，擅长受众分析，准确把握商品流行趋势；
+			7、熟悉欧美网上购消费者行为特点，买家心态，基于不同类型商品的季节性销售特性；
+			8、优秀的数据分析能力和数据敏感度，敏锐的市场洞察力，可及时发现潜在的问题/商机；
+			9、精通主流数据统计分析工具，能够运用数据分析，优化现有渠道，开拓新的推广渠道；
+			10、良好的逻辑性和书面语言表达能力，良好的带领团队的经验和团队管理经验，较强的团队凝聚力，承压力强。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10092</id>
+		<name>全职:嵌入式开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41115</startDate>
+		<finishedDate>321</finishedDate>
+		<months>8.6</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>25</resume_provide>
+		<resume_passsed>20</resume_passsed>
+		<interview>18</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、从事手机/平板/windows8平台的上层软件产品的详细设计、编码等相关开发工作。
+
+			任职要求：
+			1、计算机相关专业，本科及以上学历，1年以上工作经验；
+			2、精通C++，熟悉java；
+			3、熟悉手机/平板系统架构和开发流程；熟悉Linux操作系统；
+			4、熟悉网络通信协议；
+			5、良好的面向对象分析、设计能力、规范的编程风格和良好的文档习惯；
+			6、较好的英文基础，可以快速阅读英文资料；
+			7、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>3</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10093</id>
+		<name>全职:项目管理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41324</startDate>
+		<finishedDate>326</finishedDate>
+		<months>2.4</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>8</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>广电行业</special>
+		<requirement>工作职责：
+			1、为客户（广电或广电解决方案提供商）进行项目沟通和提供技术支持；
+			2、支持区域的销售人员完成项目前期需求收集、协调项目实施和中后期项目支持、维护；
+			3、及时收集、反馈客户信息到公司内部；
+			4、协助产品区域性的不定期市场推广工作。
+			任职要求：
+			1、计算机相关专业，本科及以上学历；
+			2、熟悉广电或相关领域的业务知识，或熟悉互联网行业或者运营商如移动/联通等领域的视频内容制作传输分发的业务知识；
+			3、了解Linux系统, 经过一定项目培训可以现场调试问题；
+			4、了解多媒体相关知识（如音视频,编解码）；
+			5、了解网络知识 (如网络架构, 协议, 数据传输等)；
+			6、良好的计划和执行能力、协调能力和人际沟通能力；
+			7、工作踏实主动，具备高度的责任心与团队意识，抗压能力强，可适应出差。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10094</id>
+		<name>全职:营销专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41051</startDate>
+		<finishedDate>323</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>3</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责对产品进行直观，感性，富有吸引力的描述，切实提高商品的转换率；
+			2、参与相关文案工作，协同设计师完成广告海报的主题与软文制作；
+			3、负责网店产品标题的编辑和修改等；
+			4、以销售产品为对象，分析客户需求，挖掘产品亮点与卖点，从事商品具体内容的策划和编辑，使商品描述实现多样化、内容化、品牌化；
+			5、协助线上活动的企划与执行，配合网店的运营及交易的顺畅；
+			6、为企划的活动做数据整理及分析，为各部门提供相关参考依据。
+			任职要求：
+			1、本科及以上学历，女性优先，2年以上英文网站编辑工作经验；
+			2、具备优秀的文案编辑、组织、整理和撰写的能力；
+			3、热爱文案策划工作，有创意激情，具有敏锐的市场洞察力、独特的视角和新颖、开阔的创意思维；
+			4、对网络SNS媒体、新闻热点有一定敏感度，有视频Demo制作经验、对化妆有研究的优先考虑；
+			5、市场营销/电子商务专业优秀应届毕业生亦可接受。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10095</id>
+		<name>全职:商务合作</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41156</startDate>
+		<finishedDate>293</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>9</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、按照部门全年任务指标，分阶段完成业务拓展任务；定期提交商务合作及业务拓展的分析报告；
+			2、负责部门各产品线的客户资源开发和商务合作，负责产品对外合作的商务谈判、项目跟进、实施完成及效果评估；
+			3、收集并整理潜在客户信息，开展专业市场对于产品反馈的收集工作；
+			4、海外展会策划及展台设计布置。
+
+			任职要求：
+			1、计算机、电子商务、市场营销等相关专业，本科以上学历，1年以上欧美市场商务合作相关工作经验；
+			2、优秀的英文表达能力及写作能力；
+			3、熟悉中高端用户行为模式，具备较好的逻辑思维、数据分析能力及合作方案的策划、制作能力；
+			4、有英语国家生活、留学经验或有一定渠道合作资源经验者优先；
+			5、有外贸经验者优先；
+			6、有相关电子商务经验或营销、网络专长，有意从事互联网、软件行业且英语优秀的应届毕业生、实习生亦可考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10096</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41041</startDate>
+		<finishedDate>307</finishedDate>
+		<months>3</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、对负责的产品进行整体规划，确定发展方向，完成产品功能设计，提出相应的资源和推广计划；
+			2、进行用户研究及行业动态跟踪，持续优化产品策略；
+			3、根据用户特点和竞争情况，确定销售定价及促销策略；
+			4、参与产品的市场推广和运营，配合营销和运营部门的工作；
+			5、管理所属产品的研发项目，协调相关资源，保障项目顺利完成；
+			6、负责产品投资报酬率(ROI)。
+
+			任职要求：
+			1、本科及以上学历，计算机及营销类相关专业优先；
+			2、3年以上工作经验，1年以上产品管理或营销经验，有产品原型设计经历者优先；
+			3、熟悉并热爱软件及(移动)互联网行业，具有优秀的资料分析能力和调研访谈能力；
+			4、熟悉软件及互联网产品的整体实现过程，有软件产品开发经验者优先；
+			5、较强的创新思维和逻辑思维能力；
+			6、良好的沟通、协调能力以及强烈的责任心和团队合作精神。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10097</id>
+		<name>全职:前台</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41306</startDate>
+		<finishedDate>286</finishedDate>
+		<months>2</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>30</resume_provide>
+		<resume_passsed>26</resume_passsed>
+		<interview>26</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、接待来访的客人和应聘人员；
+			2、负责公司电话总机的接线工作，向咨询者提供信息，记录留言，转接电话；
+			3、收发快递、传真、信件和报刊；
+			4、协助文件打印、复印、扫描工作，妥善管理传真机、复印机等办公设备；
+			5、负责员工门卡的制作和管理；
+			6、负责公司内部办公用品的采购和领用，记录各种费用明细；
+			7、完成领导交办的其他工作。
+
+			任职要求：
+			1、本科以上学历，理工或文秘、行政管理专业；
+			2、声音甜美，普通话标准，良好的语言表达能力与沟通协调能力；
+			3、熟悉接待礼仪，形象气质佳，熟练使用Word、Excel等办公软件；
+			4、思维灵活、反应敏捷，态度热情；
+			5、心态好，工作细致认真，愿意从事公司前台接待方面的工作，有较强的责任心和上进心；
+			6、英语听说能力优秀者优先；
+			7、2013应届毕业生可考虑。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10098</id>
+		<name>全职:Linux运维工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41075</startDate>
+		<finishedDate>329</finishedDate>
+		<months>9.9</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>38</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>15</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责Mysql数据库架构；
+			2、根据项目的需求制定数据库架构；
+			3、负责数据库相关java运维软件的开发；
+			4、数据库维护和监控，查询分析和优化；
+			5、文档管理和工作改进；
+			6、配合技术部门项目设计，数据库设计，数据字典。
+			任职要求：
+			1、精通MySQL数据库的运行机制和体系架构；
+			2、精通MySQL数据库的管理，扩容，备份，优化；
+			3、精通MySQL Master-Master/Slaves/Cluster应用运行体系及高可用解决方案；
+			4、精通MySQL性能调优，服务器优化；
+			5、精通Mysql的MyISAM, InnoDB, Memory引擎，存储过程和事务；
+			6、精通Linux操作系统的管理维护与使用；
+			7、熟悉Linux系统下常用服务的架设与维护；
+			8、熟悉系统shell/script编程；
+			9、有上十亿数据量数据库构架经验者优先。
+			其它要求：
+			1、3年以上相关工作经验，2年以上数据库开发或DBA经验；
+			2、具有良好的团队合作精神和沟通能力；
+			3、具有积极乐观的工作态度。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10099</id>
+		<name>全职:商务合作</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41156</startDate>
+		<finishedDate>324</finishedDate>
+		<months>1.4</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>9</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、按照部门全年任务指标，分阶段完成业务拓展任务；定期提交商务合作及业务拓展的分析报告；
+			2、负责部门各产品线的客户资源开发和商务合作，负责产品对外合作的商务谈判、项目跟进、实施完成及效果评估；
+			3、收集并整理潜在客户信息，开展专业市场对于产品反馈的收集工作；
+			4、海外展会策划及展台设计布置。
+
+			任职要求：
+			1、计算机、电子商务、市场营销等相关专业，本科以上学历，1年以上欧美市场商务合作相关工作经验；
+			2、优秀的英文表达能力及写作能力；
+			3、熟悉中高端用户行为模式，具备较好的逻辑思维、数据分析能力及合作方案的策划、制作能力；
+			4、有英语国家生活、留学经验或有一定渠道合作资源经验者优先；
+			5、有外贸经验者优先；
+			6、有相关电子商务经验或营销、网络专长，有意从事互联网、软件行业且英语优秀的应届毕业生、实习生亦可考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10100</id>
+		<name>全职:游戏开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41065</startDate>
+		<finishedDate>330</finishedDate>
+		<months>3.2</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>游戏公司</special>
+		<requirement>工作职责：
+			1、负责开发手势控制游戏；
+			2、创建可制定的游戏角色系统，如修改角色脸型等；
+			3、创建角色换装系统和游戏关卡系统；
+			4、指导美工制作游戏素材，如角色动画等。
+
+			任职要求：
+			1、本科及以上学历，2年以上相关工作经验；
+			2、精通C++，熟悉各类数据结构和算法；
+			3、熟悉计算机图形学基本知识；
+			4、熟悉游戏开发技术，如角色换装系统、角色动画、关卡系统等；有较强的游戏开发综合能力；
+			5、熟悉Maya、3D Max或Blender插件开发；熟悉OGRE引擎；
+			6、有知名游戏公司客户端开发（包括游戏编辑器开发）经验者优先；
+			7、熟悉游戏引擎的实现细节者优先。
+
+			职业素质：
+			1、对游戏开发充满热情；
+			2、动手能力强、有进取心及良好的团队合作精神；
+			3、良好的沟通表达能力，文档能力；
+			4、较强的学习能力，解决问题能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10101</id>
+		<name>全职:UI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40967</startDate>
+		<finishedDate>281</finishedDate>
+		<months>1.2</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			任职要求：
+			1、本科及以上学历，设计相关专业，熟悉网页设计和软件界面设计；
+			2、精通Photoshop、Dreamweaver、Flash及其他常用设计软件；
+			3、能熟练使用DIV+CSS构建页面，表格布局及CSS样式；
+			4、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10102</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41019</startDate>
+		<finishedDate>331</finishedDate>
+		<months>1.1000000000000001</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>8</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10103</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40962</startDate>
+		<finishedDate>332</finishedDate>
+		<months>4.0999999999999996</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>3</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10104</id>
+		<name>全职:IOS开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41044</startDate>
+		<finishedDate>302</finishedDate>
+		<months>9.8000000000000007</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>16</resume_provide>
+		<resume_passsed>12</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>任职要求：
+			1、熟悉C++或者Objective-C开发语言，熟练掌握Xcode等相关开发工具；
+			2、熟悉网络编程、多线程、图形界面编程；
+			3、良好的沟通和团队协作能力；
+			4、熟练阅读英文文档。
+			5、理解OOP和设计模式；
+			6、有开发经验及APP STORE上架作品者优先。
+
+			工作职责：
+			1、负责手机客户端iOS版的设计，开发和测试；
+			2、按照开发流程编写设计文档；
+			3、根据项目任务计划按时完成手机应用开发。
+
+			任职要求：
+			1、计算机或相关专业本科以上学历，具备扎实的编程基础；
+			2、2年以上iOS开发经验，熟悉iOS SDK，并且开发过1~2款成熟产品；
+			3、熟悉iOS下图形的绘制流程，熟悉内存优化，熟悉线程的使用；
+			4、熟悉iOS下网络访问机制，有网络编程经验；
+			5、具有较丰富的iOS程序调试经验；
+			6、有阅读软件开发经验者优先，同时有安卓/Symbian开发经验者优先；
+			7、具备良好的沟通能力和优秀的团队协作能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10105</id>
+		<name>全职:网站开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40891</startDate>
+		<finishedDate>333</finishedDate>
+		<months>1.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>无</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10106</id>
+		<name>全职:FPGA开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41148</startDate>
+		<finishedDate>334</finishedDate>
+		<months>2.2000000000000002</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>20</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>9</interview>
+		<education>1</education>
+		<special>电子，硬件</special>
+		<requirement>工作职责：
+			1、对图象、视频处理类的相关算法进行硬件需求分析，结构设计、子模块划分以及代码编写；
+			2、编写测试向量，进行模块的仿真验证、以及系统集成仿真；
+			3、利用FPGA开发工具完成硬件设计的综合、实现，并进行FPGA调试；
+			4、撰写相关的技术文档。
+
+			任职要求：
+			1、电子、通信、自动化等专业，本科2年以上，研究生1年以上工作经验，具备良好的英文听说读写能力；
+			2、具有FPGA或ASIC设计和集成方面的经验，熟练使用相关的EDA开发工具(Modelsim、Synplify、DC等)，有IP集成和开发经验者优先；
+			3、精通Verilog HDL/VHDL硬件编程语言，具有良好的编码风格；
+			4、具有良好的数字电路基础，能够独立完成模块的设计，编写测试向量并进行模块仿真验证；
+			5、熟悉Xilinx或Altera的FPGA，能够熟练利用EDA工具进行硬件设计的综合、实现和FPGA调试；
+			6、熟悉C语言，能看懂C代码。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10107</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41009</startDate>
+		<finishedDate>337</finishedDate>
+		<months>1.8</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>36</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10108</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40867</startDate>
+		<finishedDate>319</finishedDate>
+		<months>2.8</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10109</id>
+		<name>全职:Flash动画设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40962</startDate>
+		<finishedDate>302</finishedDate>
+		<months>12.5</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>10</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人相关作品，可将作品及简历发至hr@arcsoft.com.cn
+			工作职责：
+			1、根据产品需求，完成演示动画的设计和制作；
+			2、结合产品需求，完成故事脚本和分镜设计；
+			3、产品UI过渡动画效果的设计和制作；
+			4、产品宣传、推广视频的设计和制作。
+
+			任职要求：
+			1、本科及以上学历，设计类相关专业；
+			2、有丰富的动画设计经验，有一定手绘能力，善于运用动画分镜手法，绘制分镜脚本；
+			3、具有对动画的画面表现，以及节奏把握准确的能力；
+			4、能够运用Flash的Action Script语言制作动画；
+			5、熟练运用PS，AI等设计软件；
+			6、精通使用Flash制作动画；
+			7、具有清晰的设计思路，对视觉设计、色彩有敏锐的观察力及分析能力；
+			8、良好的沟通能力，善于协作，责任心强；
+			9、能熟练使用Premiere、After Effects等视频软件者优先。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>516</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10110</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41045</startDate>
+		<finishedDate>296</finishedDate>
+		<months>1.1000000000000001</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>13</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10111</id>
+		<name>全职:售前</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41384</startDate>
+		<finishedDate>339</finishedDate>
+		<months>0.5</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>无</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10112</id>
+		<name>全职:在线合作</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40945</startDate>
+		<finishedDate>340</finishedDate>
+		<months>1.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>岗位描述：
+			1、按照部门全年任务指标，分阶段完成业务拓展任务；定期提交商务合作及业务拓展的分析报告；
+			2、负责部门各产品线的客户资源开发和商务合作，能够进行相关的商务合作模式的研究和分析，负责产品对外合作的方案制定、商务谈判、项目跟进、实施完成及效果评估；
+			3、能够合理有效利用公司内外资源，根据合作伙伴业务特点制定相应合作模式和营销推广活动，达到预定的推广目的，带来实际注册用户量或销售业绩；
+			4、对不同行业渠道及合作伙伴进行有效且多角度的拓展，达成品牌及商业活动上的共赢。
+			任职要求：
+			1、本科及以上学历，3年以上商务合作相关工作经验或2年以上美洲市场互联网商务合作经验；
+			2、有较强的英文表达能力及写作能力，有英语国家生活经验，留学经验者优先；
+			3、熟悉中高端用户行为模式，具备较好的数据分析能力及合作方案的策划、制作能力；
+			4、有精准渠道合作资源，有丰富合作经验者优先。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10113</id>
+		<name>全职:测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40963</startDate>
+		<finishedDate>281</finishedDate>
+		<months>1.4</months>
+		<group>iqag</group>
+		<location>hz</location>
+		<resume_provide>8</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责业务线产品需求分析，利用相关方法和工具进行软件测试分析，独立或带领团队执行项目测试，包括需求讨论、设计评审、测试策略制定、测试方案设计等；
+			2、负责项目过程数据收集分析，提出业务线持续改进意见；
+			3、利用平台工具实施快速测试，实现敏捷测试，快速解决项目问题，提高产品质量；
+			4、负责制定自动化测试策略，实现自动化测试用例，提高测试效率；
+			5、参与产品线产品规划、产品设计，对产品提出建设性意见，提升产品用户体验。
+
+			任职要求：
+			1、本科及以上学历，计算机或相关专业；
+			2、3年以上相关工作经验，掌握软件测试理论、方法、工具，了解敏捷测试方法；
+			3、有很强的逻辑思维能力，思维严谨；
+			4、很强的学习能力和技术钻研能力，良好的沟通能力，善于团队合作；
+			5、工作积极主动，执行能力强，能努力推进问题解决；
+			6、精通互联网应用技术、移动互联网技术或相关网络协议等网络相关的测试技术者优先；
+			7、对产品设计及用户体验方面有成功经验，能深刻理解并较好运用者优先。
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10114</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40867</startDate>
+		<finishedDate>333</finishedDate>
+		<months>2.4</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10115</id>
+		<name>全职:UI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40984</startDate>
+		<finishedDate>291</finishedDate>
+		<months>3.8</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>6</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			任职要求：
+			1、本科及以上学历，设计相关专业，熟悉网页设计和软件界面设计；
+			2、精通Photoshop、Dreamweaver、Flash及其他常用设计软件；
+			3、能熟练使用DIV+CSS构建页面，表格布局及CSS样式；
+			4、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10116</id>
+		<name>全职:客服专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40977</startDate>
+		<finishedDate>312</finishedDate>
+		<months>5.7</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>13</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>7</interview>
+		<education>1</education>
+		<special>英语</special>
+		<requirement>工作职责：
+			1、为全球客户提供高质量的IT技术服务；
+			2、提供24小时的产品咨询在线服务；
+			3、支持，解答，协调客户或者研发部门产生的IT技术事宜；
+			4、定期进行数据分析，并提供相关报告。
+
+			任职要求：
+			1、具有本科及以上学历，专业不限；
+			2、有志于从事IT软件行业及客户服务行业；
+			3、熟练的英文听说及运用能力；
+			4、具有较强的语言沟通能力及技术协调能力，拥有良好的团队合作精神；
+			5、思维敏捷，较强的逻辑思维，能够快速掌握各种软件系统的主要应用价值及使用操作。
+		</requirement>
+		<tech select="service"></tech>
+		<offer>1</offer>
+		<exp>487</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10117</id>
+		<name>全职:Android开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41334</startDate>
+		<finishedDate>343</finishedDate>
+		<months>2.4</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>14</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>7</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：承担Android平台上应用程序的开发。
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、1年以上Android开发经验，熟悉C/C++更佳；
+			3、熟悉Android开发环境及多媒体框架；
+			4、有较强的软件产品，模块构架设计能力；
+			5、具备强烈的责任心、进取心，良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10118</id>
+		<name>全职:本地化工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41030</startDate>
+		<finishedDate>322</finishedDate>
+		<months>0.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>英语</special>
+		<requirement>工作职责：
+			1、负责公司产品的国际化和本地化应用的详细需求分析和设计；
+			2、完成国际化和本地化应用的详细需求文档以及需求验证工作；
+			3、完成国际化和本地化应用的需求调研工作，收集客户需求，改进业务模型；
+			4、完成国际化和本地化应用的价值提炼推广、知识转移、竞争分析；
+			5、完成面向海外客户的相关支持工作。
+
+			任职要求：
+			1、英语或计算机相关专业本科，具备一定的计算机知识背景；
+			2、英语6级或以上，专业8级者优先；
+			3、有良好的合作态度，团队精神；
+			4、学习能力较强，高度责任心，细心认真，有较好的分析和解决问题的能力；
+			5、有工作经验者优先。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10119</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40999</startDate>
+		<finishedDate>345</finishedDate>
+		<months>0.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>487</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10120</id>
+		<name>全职:算法工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41165</startDate>
+		<finishedDate>286</finishedDate>
+		<months>6.7</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>9</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>2</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责或参与图像处理算法的研究并负责图像处理算法的编码实现。
+
+			任职要求：
+			1、硕士及以上学历，图像处理、计算机视觉、模式识别相关专业研究方向；
+			2、2年以上相关工作经验；
+			3、精通C/C++；
+			4、有图像处理和增强方面的独立研发能力及项目经验；
+			5、有成功的图像处理和计算机视觉项目，或发表过相关学术论文/专利者优先；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="research"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10121</id>
+		<name>全职:IOS开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41113</startDate>
+		<finishedDate>330</finishedDate>
+		<months>1.6</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>16</resume_provide>
+		<resume_passsed>8</resume_passsed>
+		<interview>8</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>任职要求：
+			1、熟悉C++或者Objective-C开发语言，熟练掌握Xcode等相关开发工具；
+			2、熟悉网络编程、多线程、图形界面编程；
+			3、良好的沟通和团队协作能力；
+			4、熟练阅读英文文档。
+			5、理解OOP和设计模式；
+			6、有开发经验及APP STORE上架作品者优先。
+
+			工作职责：
+			1、负责手机客户端iOS版的设计，开发和测试；
+			2、按照开发流程编写设计文档；
+			3、根据项目任务计划按时完成手机应用开发。
+
+			任职要求：
+			1、计算机或相关专业本科以上学历，具备扎实的编程基础；
+			2、2年以上iOS开发经验，熟悉iOS SDK，并且开发过1~2款成熟产品；
+			3、熟悉iOS下图形的绘制流程，熟悉内存优化，熟悉线程的使用；
+			4、熟悉iOS下网络访问机制，有网络编程经验；
+			5、具有较丰富的iOS程序调试经验；
+			6、有阅读软件开发经验者优先，同时有安卓/Symbian开发经验者优先；
+			7、具备良好的沟通能力和优秀的团队协作能力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10122</id>
+		<name>全职:测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41079</startDate>
+		<finishedDate>342</finishedDate>
+		<months>1.6</months>
+		<group>iqag</group>
+		<location>hz</location>
+		<resume_provide>18</resume_provide>
+		<resume_passsed>11</resume_passsed>
+		<interview>9</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、根据产品需求文档编写测试计划，设计测试数据和测试用例；
+			2、实施产品集成测试与系统测试，对产品功能、质量等方面负责；
+			3、实施软件测试，并对缺陷进行跟踪，独立完成测试报告，推动问题及时解决；
+			4、有一定的质量保证意识，对产品生命周期中的质量问题有洞察力。
+
+			任职要求：
+			1、理工科本科及以上学历，计算机相关专业优先；
+			2、2年以上实际软件测试经验，有手机应用软件测试经验者优先；
+			3、良好的英文读写能力；
+			4、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10123</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41041</startDate>
+		<finishedDate>332</finishedDate>
+		<months>1.5</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、对负责的产品进行整体规划，确定发展方向，完成产品功能设计，提出相应的资源和推广计划；
+			2、进行用户研究及行业动态跟踪，持续优化产品策略；
+			3、根据用户特点和竞争情况，确定销售定价及促销策略；
+			4、参与产品的市场推广和运营，配合营销和运营部门的工作；
+			5、管理所属产品的研发项目，协调相关资源，保障项目顺利完成；
+			6、负责产品投资报酬率(ROI)。
+
+			任职要求：
+			1、本科及以上学历，计算机及营销类相关专业优先；
+			2、3年以上工作经验，1年以上产品管理或营销经验，有产品原型设计经历者优先；
+			3、熟悉并热爱软件及(移动)互联网行业，具有优秀的资料分析能力和调研访谈能力；
+			4、熟悉软件及互联网产品的整体实现过程，有软件产品开发经验者优先；
+			5、较强的创新思维和逻辑思维能力；
+			6、良好的沟通、协调能力以及强烈的责任心和团队合作精神。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10124</id>
+		<name>全职:韩语CPM</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41358</startDate>
+		<finishedDate>321</finishedDate>
+		<months>0.5</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>17</resume_provide>
+		<resume_passsed>10</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>韩语背景</special>
+		<requirement>工作职责：
+			1、负责韩国客户项目的跟进；
+			2、负责韩国客户关系的维护；
+			3、保持与内部研发团队良好的合作关系。
+			任职要求：
+			1、​理工科专业，本科毕业2年以上，计算机相关专业优先；
+			2、精通韩语，达母语程度优先；
+			3、有软件项目管理经验者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>2</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10125</id>
+		<name>全职:Web开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41050</startDate>
+		<finishedDate>312</finishedDate>
+		<months>3.3</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>44</resume_provide>
+		<resume_passsed>17</resume_passsed>
+		<interview>12</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、公司内部系统（B/S结构，Asp.net语言）功能的设计、开发及维护；
+			2、公司网站的管理、业务功能模块的设计，开发及维护；
+			3、制定相关功能的技术方案，并能按业务部门的要求完成开发工作。
+
+			任职要求：
+			1、计算机相关专业，本科及以上学历，3年以上Asp.net工作经验；
+			2、精通Asp.net（C#）开发，熟悉.Net，Framework技术体系架构，熟悉多层架构开发；
+			3、熟悉HTML、DIV+CSS、XML，了解Ajax、Web Service等相关技术；
+			4、熟练掌握SqlServer数据库的开发，熟练编写存储过程、函数，精通SQL联合查询；
+			5、熟练编写JS脚本，对jquery有较深的认知和应用能力；
+			6、具有较强的学习能力、解决问题能力、创新能力和逻辑思维能力，不断寻求更好的方式改善代码重用性以加快开发进度；
+			7、具有良好的沟通表达能力和团队合作精神，积极主动，认真负责，能承受高强度工作压力，良好的手写代码、技术文档编写规范习惯。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>4</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10126</id>
+		<name>全职:日语商务专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41128</startDate>
+		<finishedDate>346</finishedDate>
+		<months>2.1</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>4</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>日语背景</special>
+		<requirement>工作职责：
+			1、通过互联网等方式搜集摄影、图像处理、多媒体等行业资料（日文），并进行筛选及汇总整理；
+			2、从事技术类或商务类的翻译校对工作，及部分口译工作；
+			3、协助进行调研、策划等工作。
+
+			任职要求：
+			1、全日制本科日语专业，通过日语一级或专业八级；
+			2、良好的中、英、日文书面表达能力，至少1年以上的专业翻译经验；
+			3、沟通能力强、热爱互联网和软件行业；
+			4、有商务助理、市场调研等实习工作经历者优先。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10127</id>
+		<name>全职:Web前端开发</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41015</startDate>
+		<finishedDate>344</finishedDate>
+		<months>0.8</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			1、负责Web前端页面代码开发以及js的动画和交互效果；
+			2、负责搭建适合SEO搜索的整站网页架构；
+			3、根据产品发展需要，维护或优化已有网页前端代码；
+			4、与产品经理、设计师、研发工程师配合工作，提出合理化建议，提升工作效率。
+			任职要求：
+			1、计算机相关专业，本科以上学历；
+			2、3年以上Web前端开发经验，精通html5/xml/css3/javascript等前端技术；
+			3、熟悉jquery框架，熟练使用PhotoShop或Fireworks等切图；
+			4、了解phonegap，熟悉.NET/C#语言；
+			5、具有良好的学习、沟通、团队协作能力；个人发展方向定位明确，有良好的职业规划；
+			6、有大型网站开发经验者优先，有移动平台开发经验者优先。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10128</id>
+		<name>全职:嵌入式算法优化工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40955</startDate>
+		<finishedDate>348</finishedDate>
+		<months>1.1000000000000001</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>6</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>5</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、从事基于嵌入式平台（ARM, DSP, X86, MIPS等）的图像算法的优化工作。
+
+			任职要求：
+			1、计算机、通信、图像处理等相关专业，本科及以上学历，1年以上工作经验；
+			2、精通C语言，熟悉汇编语言，具有MMX, NEON等汇编优化经验者优先；
+			3、对软件优化工作有良好的理解，了解基本图像知识者和图像算法优化流程者优先；熟悉算法的定点化流程者优先；
+			4、至少精通其中一种嵌入式CPU（包括ARM, DSP, X86, MIPS等等）体系架构；
+			5、有较好的英文基础，可以快速阅读英文资料；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10129</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41103</startDate>
+		<finishedDate>311</finishedDate>
+		<months>1</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>3</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10130</id>
+		<name>全职:测试工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40955</startDate>
+		<finishedDate>282</finishedDate>
+		<months>0.5</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、根据产品需求文档编写测试计划，设计测试数据和测试用例；
+			2、实施产品集成测试与系统测试，对产品功能、质量等方面负责；
+			3、实施软件测试，并对缺陷进行跟踪，独立完成测试报告，推动问题及时解决；
+			4、有一定的质量保证意识，对产品生命周期中的质量问题有洞察力。
+
+			任职要求：
+			1、理工科本科及以上学历，计算机相关专业优先；
+			2、2年以上实际软件测试经验，有手机应用软件测试经验者优先；
+			3、良好的英文读写能力；
+			4、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10131</id>
+		<name>全职:SQA工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40918</startDate>
+		<finishedDate>287</finishedDate>
+		<months>2.4</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>11</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、协助项目经理完成项目的流程裁减；
+			2、根据项目情况制定项目SQA计划 ；
+			3、根据公司流程和项目SQA计划审计项目组执行流程的情况 ；
+			4、跟踪审计发现的问题直到关闭 ；
+			5、为开发团队提供流程相关的指导和培训 ；
+			6、协助开发团队收集度量数据并进行验证 ；
+			7、定期完成各个项目质量、风险状况分析报告 ；
+
+			职位要求：
+			1、本科及以上学历，2年以上相关工作经验；
+			2、对CMMI, ISO9000, 6Sigma等质量体系模型，及项目管理非常熟悉，并有实际执行经验；
+			3、熟悉软件开发过程，包括各种软件开发生命周期模型；
+			4、熟悉软件公司质量保证的理论和方法；
+			5、良好的沟通能力与团队合作精神；
+			6、有项目管理经验者优先考虑；
+		</requirement>
+		<tech select="quality"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10132</id>
+		<name>全职:UI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40948</startDate>
+		<finishedDate>350</finishedDate>
+		<months>0.8</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			任职要求：
+			1、本科及以上学历，设计相关专业，熟悉网页设计和软件界面设计；
+			2、精通Photoshop、Dreamweaver、Flash及其他常用设计软件；
+			3、能熟练使用DIV+CSS构建页面，表格布局及CSS样式；
+			4、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10133</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40867</startDate>
+		<finishedDate>333</finishedDate>
+		<months>2.4</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10134</id>
+		<name>全职:GUI设计师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41103</startDate>
+		<finishedDate>351</finishedDate>
+		<months>5</months>
+		<group>omsg</group>
+		<location>hz</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>设计专业</special>
+		<requirement>注：请提供5幅以上个人UI作品，可将作品及简历发至hr@arcsoft.com.cn
+
+			工作职责：
+			1、根据产品需求，负责产品GUI的设计；
+			2、设计产品Logo、Icon，并完成UI设计文档。
+			任职要求：
+			1、本科及以上学历，设计相关专业；
+			2、具有良好的设计美感和扎实的设计基础、手绘功底；
+			3、精通PS、AI等图形设计软件，熟悉使用Flash制作演示动画者优先；
+			4、具有清晰的设计思路，认真细致，善于创新，对视觉设计、色彩有敏锐的观察力及分析能力；
+			5、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="design"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10135</id>
+		<name>全职:网管</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40940</startDate>
+		<finishedDate>282</finishedDate>
+		<months>1</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>5</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>3</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、负责 win2003/2008、Linux等机器的调试、管理、维护；
+			2、负责路由器、交换机、防火墙、voip设备的调试、管理、维护；
+			3、负责Email、Web、FTP及各种应用服务器的安装、配置、管理；
+			4、负责数据的备份及管理，网络病毒及入侵的防范。
+
+			任职要求：
+			1、扎实的网络知识，熟悉ISO/OSI七层结构；
+			2、丰富的win2003/2008 AD结构配置、调试、故障解决经验；
+			3、掌握Exchange、IIS、FTP、ISA、VPN等系统的配置、故障解决；
+			4、精通Cisco路由器，交换机，PIX & Netscreen防火墙，VOIP的配置；
+			5、丰富的网络管理经验，扎实的管理脚本（bat、js、vbs）的编写能力；
+			6、具有同时管理100台以上工作机器的实际经验，丰富的桌面应用故障处理经验；
+			7、很强的网络安全意识，高度的责任感，有病毒及入侵的防范经验者优先；
+			8、高度的责任感，较强的学习能力，良好的沟通能力及团队合作精神；
+			9、良好的英文听说读写能力。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10136</id>
+		<name>全职:市场总监</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41149</startDate>
+		<finishedDate>352</finishedDate>
+		<months>4.2</months>
+		<group>mcpg</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>3</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>广电行业</special>
+		<requirement>定向猎取：定点公司：
+			北京中科大洋科技发展股份有限公司;北京强氧,索贝数码科技股份有限公司;大连捷成实业发展有限公司;要求：
+			熟悉中国的电视台，大型视频网站，大型企业的电视台等相关的设备采购流程，熟悉相应的采购渠道，优先考虑有非编系统市场经验的人员，并且有相应的市场的人脉关系。待遇优厚。
+			可以是Manager level的，也可以是Director Level的。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10137</id>
+		<name>全职:HR Manager</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40867</startDate>
+		<finishedDate>297</finishedDate>
+		<months>11.2</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责:
+			根据公司发展战略，全面负责业务部门人力资源工作
+
+			任职资格：
+			1、教育：人力资源、管理或相关专业大学本科以上学历
+			2、工作经验：5年以上人力资源管理相关工作经验
+			3、培训：现代人力资源管理技术、劳动法规、财务会计知识和管理能力开发等方面的培训
+			4、技能/能力：
+			（1）对现代企业人力资源管理模式有系统的了解和实践经验积累，对人力资源战略规划
+			（2）人才的发现与引进、薪酬设计、绩效考核、岗位培训、福利待遇、公司制度建设、组织与人员调整、员工职业生涯设计等具有丰富的实践经验
+			（3）对人力资源管理事务性的工作有娴熟的处理技巧，熟悉人事工作流程
+			（4）熟悉国家、地区及企业关于合同管理、薪金制度、用人机制、保险福利待遇和培训方针
+			（5）熟练使用办公软件及相关的人事管理软件
+			（6）较好的英文听、说、读、写能力
+			5、其它：
+			（1）对人及组织变化敏感，具有很强的沟通、协调和推进能力
+			（2）高度的敬业精神及高涨的工作激情，能接受高强度的工作，工作态度积极乐观
+			（3）善于与各类性格的人交往，待人公平
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>5</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10138</id>
+		<name>全职:后台开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41250</startDate>
+		<finishedDate>353</finishedDate>
+		<months>0.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、进行后台服务器端开发和维护；
+			2、根据项目设计文档完成编码实现；
+			3、解决网站后台性能及安全相关性问题。
+			任职要求：
+			1、本科及以上学历，计算机相关专业，3年以上工作经验，独立完成过项目，有数据分析开发经验优先；
+			2、精通Java SE和Java EE，包括Servlet/JSP、JDBC、EJB、JMS、Web
+			Service等，对各种开源框架如Spring、Hibernate等有深入了解；
+			3、熟悉.NET语言，熟练掌握C#；
+			4、熟悉MySql、Oracle Mysql等数据库，精通SQL调优和数据结构设计，熟悉数据库集群和容灾备份；
+			5、具备良好的识别和设计通用框架及模块的能力，对于分布式系统的设计、开发、实现有较为丰富经验；
+			6、有良好的学习能力，较强的表达和沟通能力，能够融入团队，成为技术领袖，能够承受工作压力。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10139</id>
+		<name>全职:渠道推广</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41337</startDate>
+		<finishedDate>343</finishedDate>
+		<months>2.2999999999999998</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、按照部门全年任务指标，分阶段完成业务拓展任务；定期提交商务合作及业务拓展的分析报告；
+			2、负责部门各产品线的客户资源开发和商务合作，负责产品对外合作的商务谈判、项目跟进、实施完成及效果评估；
+			3、收集并整理潜在客户信息，开展专业市场对于产品反馈的收集工作；
+			4、海外展会策划及展台设计布置。
+
+			任职要求：
+			1、计算机、电子商务、市场营销相关专业本科及以上学历，CET6；
+			2、1-3年工作经验，有计算机/通讯/电子商务等行业市场营销经验或外贸经验的优先；
+			3、具备较强的英文文案写作能力，思路清晰；
+			4、执行力强，具备开拓精神，能够很好的完成上级安排的工作内容；
+			5、学习能力强，能够承受工作压力，团队协作能力佳；
+			6、良好的沟通能力及职业素养。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10140</id>
+		<name>全职:算法工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>40885</startDate>
+		<finishedDate>333</finishedDate>
+		<months>1.8</months>
+		<group>atc</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>2</education>
+		<special>图像</special>
+		<requirement>工作职责：
+			1、负责或参与图像处理算法的研究并负责图像处理算法的编码实现。
+
+			任职要求：
+			1、硕士及以上学历，图像处理、计算机视觉、模式识别相关专业研究方向；
+			2、2年以上相关工作经验；
+			3、精通C/C++；
+			4、有图像处理和增强方面的独立研发能力及项目经验；
+			5、有成功的图像处理和计算机视觉项目，或发表过相关学术论文/专利者优先；
+			6、良好的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="research"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10141</id>
+		<name>全职:助理产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41061</startDate>
+		<finishedDate>354</finishedDate>
+		<months>2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责:
+			1、负责产品需求调研和用户行为分析，撰写相关需求文档，要求产品设计方向准确，思维缜密，产品策划结构清晰，分工明确；
+			2、研究行业内用户行为习惯，绘制产品原型图，提升产品的易用性和使用；
+			3、日常跟踪观察竞争对手产品、用户情况，定期分析；
+			4、与相关部门沟通、协调，保证产品实施阶段的进度与质量；
+			5、收集各方需求，分析产品使用情况，结合市场情况设计产品改进方案；
+			6、提出新产品计划，设计新产品原型。
+
+			任职要求：
+			1、2012年应届毕业生；
+			2、理解能力强，分析能力强，逻辑思维清晰，能熟练编写产品方案，条理清楚；
+			3、协调沟通能力强，在进行产品策划过程中，能配合同事保质保量共同完成策划项目；
+			4、思维敏捷，性格开朗，责任感强，工作积极主动，具备学习意识，有良好的团队协作意识；
+			5、热爱互联网，对网络产品有一定理解，互联网商业模式有准确认识。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10142</id>
+		<name>全职:营销策划</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41051</startDate>
+		<finishedDate>296</finishedDate>
+		<months>0.9</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>1</resume_provide>
+		<resume_passsed>1</resume_passsed>
+		<interview>1</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责国际B2C商城站构架规划、栏目整体策划，登陆页面策划，为后台功能研发和前台设计制作提供策划案；
+			2、完成策划后，跟进设计、开发、制作等部门工作；
+			3、负责优化B2C站用户体验优化，持续提升网站转换率相关指标。
+
+			任职要求：
+			1、本科及以上学历，性别不限，3年以上国际B2C商城站策划工作经验；
+			2、具备独立需求分析能力和栏目策划能力；
+			3、熟练使用界面策划软件及html语言；
+			4、熟悉B2C商城站或B2B行业站，能熟练掌握其中一种类型电子商务网站的运作流程；
+			5、具有优秀的文案功底，清晰的策划思路，能独立撰写网站开发策划方案；
+			6、出色的执行能力，包括建立有效的工作关系的能力；
+			7、具有较强的沟通技巧和高效资源协调和整合能力；
+			8、有大型活动策划经验或EDM, SEM, Affiliate, Activity, SNS各种电商操作经验等优先考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10143</id>
+		<name>全职:美妆编辑</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41211</startDate>
+		<finishedDate>356</finishedDate>
+		<months>1.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>31</resume_provide>
+		<resume_passsed>20</resume_passsed>
+		<interview>17</interview>
+		<education>1</education>
+		<special>文字能力</special>
+		<requirement>工作职责：
+			1、配合产品负责网络信息的搜集、编辑、整理、审校、更新；
+			2、负责网站内容的日常维护；
+			3、负责使用软件对妆容模板的还原制作；
+			4、关注市场需求，策划选题及持续改进内容提供，把用户需求和网站、软件内容高度粘合；
+			5、在线处理用户问答解疑。
+
+			任职要求：
+			1、大专以上学历，专业不限；
+			2、有较高的文字整合能力；
+			3、思路灵活、具备较好的女性市场资讯收集和判断力，及各类热点信息潮流资讯有敏锐触觉；
+			4、较高的职业素养、工作责任心强，擅于沟通；
+			5、有女性网站编辑经验或对彩妆特别有兴趣和了解的优先考虑。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>2</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10144</id>
+		<name>全职:营销专员</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41051</startDate>
+		<finishedDate>284</finishedDate>
+		<months>1.4</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>4</resume_provide>
+		<resume_passsed>4</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责对产品进行直观，感性，富有吸引力的描述，切实提高商品的转换率；
+			2、参与相关文案工作，协同设计师完成广告海报的主题与软文制作；
+			3、负责网店产品标题的编辑和修改等；
+			4、以销售产品为对象，分析客户需求，挖掘产品亮点与卖点，从事商品具体内容的策划和编辑，使商品描述实现多样化、内容化、品牌化；
+			5、协助线上活动的企划与执行，配合网店的运营及交易的顺畅；
+			6、为企划的活动做数据整理及分析，为各部门提供相关参考依据。
+			任职要求：
+			1、本科及以上学历，女性优先，2年以上英文网站编辑工作经验；
+			2、具备优秀的文案编辑、组织、整理和撰写的能力；
+			3、热爱文案策划工作，有创意激情，具有敏锐的市场洞察力、独特的视角和新颖、开阔的创意思维；
+			4、对网络SNS媒体、新闻热点有一定敏感度，有视频Demo制作经验、对化妆有研究的优先考虑；
+			5、市场营销/电子商务专业优秀应届毕业生亦可接受。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>3</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10145</id>
+		<name>全职:C/C++开发工程师</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41108</startDate>
+		<finishedDate>324</finishedDate>
+		<months>3</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>37</resume_provide>
+		<resume_passsed>19</resume_passsed>
+		<interview>14</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			Windows C++桌面应用开发、适配和维护。
+
+			任职要求：
+			1、本科及以上学历，计算机相关专业；
+			2、英语CET-4以上，具备良好的英文读写能力；
+			3、精通C++基础语法及标准库、有良好的编码习惯；
+			4、思维敏捷，沟通良好；
+			5、熟悉Windows API，对Windows 操作系统原理有较深刻的理解。
+		</requirement>
+		<tech select="develop"></tech>
+		<offer>3</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10146</id>
+		<name>全职:产品经理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41204</startDate>
+		<finishedDate>357</finishedDate>
+		<months>0.7</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>15</resume_provide>
+		<resume_passsed>11</resume_passsed>
+		<interview>11</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、对负责的产品进行整体规划，确定发展方向，完成产品功能设计，提出相应的资源和推广计划；
+			2、进行用户研究及行业动态跟踪，持续优化产品策略；
+			3、根据用户特点和竞争情况，确定销售定价及促销策略；
+			4、参与产品的市场推广和运营，配合营销和运营部门的工作；
+			5、管理所属产品的研发项目，协调相关资源，保障项目顺利完成；
+			6、负责产品投资报酬率(ROI)。
+
+			任职要求：
+			1、本科及以上学历，计算机及营销类相关专业优先；
+			2、3年以上工作经验，1年以上产品管理或营销经验，有产品原型设计经历者优先；
+			3、熟悉并热爱软件及(移动)互联网行业，具有优秀的资料分析能力和调研访谈能力；
+			4、熟悉软件及互联网产品的整体实现过程，有软件产品开发经验者优先；
+			5、较强的创新思维和逻辑思维能力；
+			6、良好的沟通、协调能力以及强烈的责任心和团队合作精神。
+		</requirement>
+		<tech select="product"></tech>
+		<offer>1</offer>
+		<exp>3</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10147</id>
+		<name>全职:总裁办助理</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41054</startDate>
+		<finishedDate>358</finishedDate>
+		<months>10.199999999999999</months>
+		<group>operation(hz)</group>
+		<location>hz</location>
+		<resume_provide>9</resume_provide>
+		<resume_passsed>6</resume_passsed>
+		<interview>6</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、协助总裁助理处理各类资质项目申报、申报材料准备与申报材料的管理；
+			2、协助总裁助理对外联络，如参加一些商务活动，与外部客户保持良好的关系；
+			3、协助总裁助理关于法务文件的档案资料的整理与管理工作；
+
+			任职要求：
+			1、法律/英语/公关/秘书/传播/新闻/广告/管理等相关专业，本科及以上学历，CET-4；
+			2、1-3年工作经验，计算机/通讯/电子商务等行业经历优先；
+			3、具备较强的写作能力，文笔流畅，行文能力强；
+			4、思路清晰、优秀的表达沟通和观察能力，较强的组织协调能力、分析判断能力；
+			5、具有一定的渠道开拓能力，执行力较强，能很好的完成上级安排的工作内容；
+			6、学习能力强，事业心强，能承受工作压力，团队协作能力佳；
+			7、具有保密与服务意识，良好的职业素养；
+			8、具有法务实践经验及政府人脉资源者优先。
+		</requirement>
+		<tech select="operation"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10148</id>
+		<name>全职:秘书</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41330</startDate>
+		<finishedDate>286</finishedDate>
+		<months>1.2</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>8</resume_provide>
+		<resume_passsed>7</resume_passsed>
+		<interview>7</interview>
+		<education>1</education>
+		<special>无</special>
+		<requirement>工作职责：
+			1、事业中心基础人事行政助理工作（包括会议纪要整理、员工关系维护、招聘/培训工作组织协调等）；
+			2、负责各事业中心之间工作对接，组织和参与事业中心相关公共关系活动；
+			3、领导安排的其他任务。
+
+			任职资格：
+			1、计算机、中文、文秘、人力资源管理、行政管理、企业管理等相关专业，本科以上学历；
+			2、具有与岗位相匹配的知识结构，具有较强的文字处理和写作归纳能力，能独立进行信息收集、分析等工作；
+			3、善于学习，具有较强的客户服务意识、团队协作意识和创新意识；
+			4、诚实守信，待人热情，爱岗敬业，工作严谨，坚持原则，责任心强，具有良好的沟通协调力和领悟力；
+			5、具备基本的英语书面、口语沟通表达能力；
+			6、相关岗位1年以上工作经验。
+		</requirement>
+		<tech select="manager"></tech>
+		<offer>1</offer>
+		<exp>1</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10149</id>
+		<name>全职:商业客服运营</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41303</startDate>
+		<finishedDate>359</finishedDate>
+		<months>1.6</months>
+		<group>cpsg</group>
+		<location>hz</location>
+		<resume_provide>19</resume_provide>
+		<resume_passsed>5</resume_passsed>
+		<interview>4</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、按规定的售后维护的步骤，在规定时间内按工序化的步骤完成售后服务等相关工作；
+			2、建立客户价值档案，不同客户采取不同维护级别、不同客户经营内容，协助运营经理完成客户生命周期体系搭建；
+			3、发掘用户需求，并配合产品开发进度，提供有价值的用户需求报告；
+			4、准确把握客户意图、充分了解客户需求并与客户建立良好的关系，促进二次销售，完成存活客户数目标；
+			5、负责会议营销的商业客户邀请及沟通协调工作。
+
+			任职要求：
+			1、本科及以上学历，心理学、市场营销、经济管理、语言类专业优先；
+			2、有一定的数据分析能力和文字功底，掌握行业知识，了解行业动态；
+			3、有会议营销、电商客户运营经验优先；
+			4、以结果为导向，较强的沟通能力及团队合作精神。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>370</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+	<recruitment>
+		<id>10150</id>
+		<name>全职:SEO</name>
+		<requiredTime>0</requiredTime>
+		<startDate>41128</startDate>
+		<finishedDate>330</finishedDate>
+		<months>1.1000000000000001</months>
+		<group>ccbd</group>
+		<location>hz</location>
+		<resume_provide>2</resume_provide>
+		<resume_passsed>2</resume_passsed>
+		<interview>2</interview>
+		<education>1</education>
+		<special>互联网，电子商务背景</special>
+		<requirement>工作职责：
+			1、负责网站面向百度、谷歌的优化，监控和研究竞争对手及其他网站相关策略，并围绕优化提出合理的网站调整建议；
+			2、对网站进行内部优化，包括前台页面和系统架构，提出网站排名及优化的整体解决方案与设计师及程序员配合执行；
+			3、评估、分析、建议网站及各频道的关键词解决方案并有效贯彻执行；
+			4、参与网络营销策划工作。
+
+			任职要求：
+			1、本科及以上学历，熟悉HTML、CSS，具备2年以上网站SEO经验；
+			2、熟悉百度、谷歌等各大搜索引擎的搜索排名机制和原理；
+			3、熟练掌握百度搜索引擎SEM、口碑营销、内外链接等优化细节；
+			4、熟练使用网站测试工具、网站优化工具、流量分析工具，对SEO有较为深刻的认识，能够对网站流量和转化率的提升给出建设性的方案；
+			5、熟悉掌握网络整合营销推广计划制定、计划执行、实施监控；
+			6、有较强的市场及产品意识和沟通领悟能力，较强的问题分析和解决能力，善于自我激励，能持续关注搜索引擎的发展；
+			7、良好的沟通协调及项目管理能力，能有效推动与其他部门的合作。
+		</requirement>
+		<tech select="marketing"></tech>
+		<offer>1</offer>
+		<exp>2</exp>
+		<grade>0</grade>
+		<category>senior</category>
+	</recruitment>
+</recruitments>

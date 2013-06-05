@@ -12,19 +12,19 @@ public class KpiData {
 	public String group;
 	public String name;
 	public String location;
-	public int requiredNum;
+	public String requiredNum;
 	public String requirement;
 	public String education;
-	public int experence;
+	public String experence;
 	public String special;
 	public String language;
 	public String systems;
 	public String mobile;
 	public String tools;
-	public int provideResumes;
-	public int passedResumes;
-	public int interview;
-	public int onBoardNum;
+	public String provideResumes;
+	public String passedResumes;
+	public String interview;
+	public String onBoardNum;
 	public String onBoardPeople;
 	public String startDate;
 	public String finishedDate;
@@ -58,13 +58,13 @@ public class KpiData {
 			i++;
 			location = row.getCell(i).getRichStringCellValue().toString();
 			i++;
-			requiredNum = (int) (row.getCell(i).getNumericCellValue());
+			requiredNum = row.getCell(i).getRawValue();
 			i++;
 			requirement = row.getCell(i).getRichStringCellValue().toString();
 			i++;
 			education = row.getCell(i).getRichStringCellValue().toString();
 			i++;
-			experence = DataUtil.getExp(row.getCell(i).getRawValue());
+			experence = row.getCell(i).getRawValue();
 			i++;
 			special = row.getCell(i).getRichStringCellValue().toString();
 			i++;
@@ -76,20 +76,19 @@ public class KpiData {
 			i++;
 			tools = row.getCell(i).getRichStringCellValue().toString();
 			i++;
-			provideResumes = (int) row.getCell(i).getNumericCellValue();
+			provideResumes = row.getCell(i).getRawValue();
 			i++;
-			passedResumes = (int) row.getCell(i).getNumericCellValue();
+			passedResumes = row.getCell(i).getRawValue();
 			i++;
-			interview = (int) row.getCell(i).getNumericCellValue();
+			interview = row.getCell(i).getRawValue();
 			i++;
-			onBoardNum = (int) row.getCell(i).getNumericCellValue();
+			onBoardNum = row.getCell(i).getRawValue();
 			i++;
 			onBoardPeople = row.getCell(i).getRichStringCellValue().toString();
 			i++;
 			startDate = String.valueOf(row.getCell(i).getRawValue());
 			i++;
-			finishedDate = String
-					.valueOf(row.getCell(i).getRawValue());
+			finishedDate = row.getCell(i).getRawValue();
 			i++;
 			monthCost = row.getCell(i).getRawValue();
 			i++;
@@ -162,6 +161,10 @@ public class KpiData {
 		sb.append("<special>");
 		sb.append(special);
 		sb.append("</special>");
+		
+		sb.append("<requirement>");
+		sb.append(requirement);
+		sb.append("</requirement>");
 
 		String cat=DataUtil.getCategory(category);
 		if (type.equals("ʵϰ"))
