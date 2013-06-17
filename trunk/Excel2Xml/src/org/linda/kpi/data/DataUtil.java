@@ -3,19 +3,27 @@ package org.linda.kpi.data;
 public class DataUtil {
 	public static int parseEducation(String edu) {
 		edu=edu.trim();
-		if(edu.startsWith("±¾¿Æ"))
+		if(edu.startsWith("æœ¬ç§‘"))
 			return 1;
-		if (edu.startsWith("´ó×¨"))
+		if (edu.startsWith("å¤§ä¸“"))
 			return 0;
-		if (edu.startsWith("Ë¶Ê¿"))
+		if (edu.startsWith("ç¡•å£«"))
 			return 2;
-		if (edu.startsWith("²©Ê¿"))
+		if (edu.startsWith("åšå£«"))
 			return 3;
 		return 1;
 	}
 	
+	public static String[] onboardPeople(String people) {
+		final String SPLIT="/";
+		if (people.indexOf(SPLIT)>=0) {
+			return people.split(SPLIT);
+		}
+		return new String[]{people};
+	}
+	
 	public static String parseSpecial(String special) {
-		if (special.startsWith("ÎŞ"))
+		if (special.startsWith(""))
 			return null;
 		return null;
 	}
@@ -23,23 +31,23 @@ public class DataUtil {
 	public static String getCategory(String category) {
 		switch(category)
 		{
-		case "²âÊÔ":
+		case "æµ‹è¯•":
 			return "quality";
-		case "ÑĞ¾¿":
+		case "ç ”ç©¶":
 			return "research";
-		case "¿ª·¢":
+		case "å¼€å‘":
 			return "develop";
-		case "Éè¼Æ":
+		case "è®¾è®¡":
 			return "design";
-		case "²úÆ·":
+		case "äº§å“":
 			return"product";
-		case "ÊĞ³¡ÓªÏú":
+		case "å¸‚åœºè¥é”€":
 			return "marketing";
-		case "¿Í·ş":
+		case "å®¢æœ":
 			return "service";
-		case "ÔËÓª£¨GA£©":
+		case "è¿è¥ï¼ˆGAï¼‰":
 			return "operation";
-		case "¹ÜÀí":
+		case "ç®¡ç†":
 			return "manager";
 		default:
 				return "develop";
