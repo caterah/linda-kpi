@@ -1,6 +1,8 @@
 package controller.basic
 {
 	import flash.utils.Dictionary;
+	
+	import controller.data.MathUtil;
 
 	public class MultiPair
 	{
@@ -26,7 +28,7 @@ package controller.basic
 			{
 				return ValuePair(_map[key]).value;
 			}
-			return ValuePair(_map[_def]).value;
+			return MathUtil.round(ValuePair(_map[_def]).value);
 		}
 		
 		public function getMultiValues(r:XML):Number
@@ -39,7 +41,7 @@ package controller.basic
 				xml=r.children()[i];
 				calc+=getValue(xml.@name);
 			}
-			return calc;
+			return MathUtil.round(calc);
 		}
 	}
 }

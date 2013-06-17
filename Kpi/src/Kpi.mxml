@@ -19,7 +19,7 @@
 			import controller.Controller;
 			
 			[Bindable]
-			public var tabStats:Array=["查看编辑规则","查看编辑内容","查看结果以及过程"];
+			public var tabStats:Array=["点数计算规则","职位点数计算","职位点数比较","搜索类似职位"];
 			
 			private var _data:Controller;
 			
@@ -30,8 +30,9 @@
 				_data.loadData();
 				
 				ruleEdit.setData(_data);
-				dataInput.setData(_data);
 				calcResult.setData(_data);
+				resultCompare.setData(_data);
+				searchModule.setData(_data);
 				
 				switchTab(0);
 			}
@@ -44,18 +45,22 @@
 			protected function switchTab(index:int):void
 			{
 				ruleEdit.visible=false;
-				dataInput.visible=false;
 				calcResult.visible=false;
+				resultCompare.visible=false;
+				searchModule.visible=false;
 				switch(index) 
 				{
 					case 0:
 						ruleEdit.visible=true;
 						break;
 					case 1:
-						dataInput.visible=true;
+						calcResult.visible=true;
 						break;
 					case 2:
-						calcResult.visible=true;
+						resultCompare.visible=true;
+						break;
+					case 3:
+						searchModule.visible=true;
 						break;
 					default:
 						ruleEdit.visible=true;
@@ -71,8 +76,9 @@
 		</mx:TabBar>
 		<s:Group width="100%" height="100%">
 			<local:RuleEditView id="ruleEdit" width="100%" height="100%" />
-			<local:DataInputView id="dataInput" width="100%" height="100%" />
 			<local:CalcResultView id="calcResult" width="100%" height="100%" />
+			<local:ResultCompareView id="resultCompare" width="100%" height="100%" />
+			<local:SearchModule id="searchModule" width="100%" height="100%" />
 		</s:Group>
 	</s:VGroup>
 </s:WindowedApplication>

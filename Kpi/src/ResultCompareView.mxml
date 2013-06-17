@@ -2,7 +2,8 @@
 <s:HGroup xmlns:fx="http://ns.adobe.com/mxml/2009"
 		  xmlns:s="library://ns.adobe.com/flex/spark"
 		  xmlns:mx="library://ns.adobe.com/flex/mx"
-		  xmlns:controller="controller.*" xmlns:control="control.*">
+		  xmlns:controller="controller.*" 
+		  xmlns:control="control.*">
 	<fx:Declarations>
 		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
 		<!-- Define custom colors for use as pie wedge fills. -->
@@ -18,6 +19,12 @@
 		
 		<!-- This Stroke is used for the outer border of the pie. -->
 		<mx:SolidColorStroke id="pieborder" color="0x000000" weight="2" alpha=".5"/>
+		
+		<!-- Define custom Strokes. -->
+		<mx:SolidColorStroke id = "s1" color="blue" weight="2"/>
+		<mx:SolidColorStroke id = "s2" color="red" weight="2"/>
+		<mx:SolidColorStroke id = "s3" color="green" weight="2"/>
+
 	</fx:Declarations>
 	<fx:Script>
 		<![CDATA[
@@ -26,27 +33,45 @@
 			import spark.events.GridEvent;
 			
 			import controller.Controller;
+			import controller.data.JobData;
 			import controller.data.PartData;
 			private var _data:Controller;
 			
 			private var _comps:Array;
 			
+			private var _nameDict:Dictionary;
+			
+			private var _jobs:Array;
+			
 			public function setData(data:Controller):void 
 			{
 				_data=data;
-				var arr:ArrayCollection=new ArrayCollection([]);
 				var recrus:XMLList=_data.data.recruitment;
 				var size:int=recrus.length();
 				var xml:XML;
+				_nameDict=new Dictionary();
+				var key:String;
 				for(var i:uint=0;i<size;i++)
 				{
 					xml=recrus[i];
-					arr.addItem(xml);
+					key=xml.job[0];
+					if (_nameDict[key]==null) {
+						_nameDict[key]=new JobData();
+					}
+					JobData(_nameDict[key]).name=key;
+					JobData(_nameDict[key]).addPoint(xml.id[0],xml.name[0],xml.months[0],calc(xml));
 				}
-				recruList.dataProvider=arr;
 				
-				recruList.selectedIndex=0;
-				calc(_data.data.recruitment[0]);
+				_jobs=[];
+				for (key in _nameDict) {
+					_jobs.push(_nameDict[key]);
+				}
+				
+				recruList.dataProvider=new ArrayCollection(_jobs);
+				linechartAverage.dataProvider=new ArrayCollection(_jobs);
+				linechartMax.dataProvider=new ArrayCollection(_jobs);
+				linechartMin.dataProvider=new ArrayCollection(_jobs);
+//				Areachart.dataProvider=new ArrayCollection(_jobs);
 			}
 			
 			protected function onGridClick(event:GridEvent):void
@@ -58,7 +83,6 @@
 			private function calc(r:XML):int 
 			{
 				_comps=[];
-				setTitle(r);
 				var total:Number=0;
 				total=calcLocation(r,total);
 				total=calcResumes(r,total);
@@ -72,23 +96,14 @@
 				total=calcGrade(r,total);
 				total=calcCategory(r,total);
 				total=calcTime(r,total);
-				chart.dataProvider=new ArrayCollection(_comps);
 				return total;
 			}
 			
-			protected function setTitle(r:XML):void {
-				title._title.text="ID:"+r.id[0]+" 名称:"+r.name[0];
-				title._startTime.text="开始时间："+r.startDate[0];
-				title._finishedTime.text="结束时间："+r.finishedDate[0];
-				title._monthCost.text="花费："+r.months[0]+"个月";
-				title._owner.text="发起者:"+r.owner[0];
-			}
 			
 			protected function calcLocation(r:XML,input:Number):Number 
 			{
 				var loca:String=r.location[0];
 				var calc:Number=input+_data.opreation.location.getValue(loca);
-				_comps.push(lcoation.setData(input,calc,"城市因素"));
 				return calc;
 			}
 			
@@ -96,7 +111,6 @@
 			{
 				var resumeCount:int=r.resumes[0];
 				var calc:Number=input+_data.opreation.resume.getResult(resumeCount);
-				_comps.push(resumes.setData(input,calc,"简历推荐因素"));
 				return calc;
 			}
 			
@@ -104,7 +118,6 @@
 			{
 				var interveiwCount:int=r.interview[0];
 				var calc:Number=input+_data.opreation.interview.getResult(interveiwCount);
-				_comps.push(interview.setData(input,calc,"面试流程因素"));
 				return calc;
 			}
 			
@@ -112,7 +125,6 @@
 			{
 				var edu:int=r.education[0];
 				var calc:Number=input+_data.opreation.education.getResult(edu);
-				_comps.push(education.setData(input,calc,"教育背景因素"));
 				return calc;
 			}
 			
@@ -120,7 +132,6 @@
 			{
 				var s:XML=r.special[0];
 				var calc:Number=input+_data.opreation.special.getMultiValues(s);
-				_comps.push(special.setData(input,calc,"特殊行业或者公司因素"));
 				return calc;
 			}
 			
@@ -128,7 +139,6 @@
 			{
 				var tech:XML=r.tech[0];
 				var calc:Number=input+_data.opreation.tech.getTech(tech);
-				_comps.push(technical.setData(input,calc,"技术、工具、平台因素"));
 				return calc;
 			}
 			
@@ -136,7 +146,6 @@
 			{
 				var job:XML=r.job[0];
 				var calc:Number=input+_data.opreation.jobTitle.getValue(job);
-				_comps.push(jobTitle.setData(input,calc,"职位因素"));
 				return calc;
 			}
 			
@@ -144,7 +153,6 @@
 			{
 				var o:int=r.offer[0];
 				var calc:Number=input+_data.opreation.offer.getResult(o);
-				_comps.push(offer.setData(input,calc,"Offer因素"));
 				return calc;
 			}
 			
@@ -152,7 +160,6 @@
 			{
 				var e:int=r.exp[0];
 				var calc:Number=input*(1+_data.opreation.exp.getResult(e));
-				_comps.push(exp.setData(input,calc,"工作年限、经验因素"));
 				return calc;
 			}
 			
@@ -160,7 +167,6 @@
 			{
 				var g:int=r.grade[0];
 				var calc:Number=input*(1+_data.opreation.grade.getResult(g));
-				_comps.push(grade.setData(input,calc,"职位等级因素:暂时无数据"));
 				return calc;
 			}
 			
@@ -168,14 +174,12 @@
 			{
 				var c:String=r.category[0];
 				var calc:Number=input*_data.opreation.category.getValue(c);
-				_comps.push(category.setData(input,calc,"职位类别因素"));
 				return calc;
 			}
 			
 			protected function calcTime(r:XML,input:Number):Number
 			{
 				var calc:Number=input;
-				_comps.push(time.setData(input,calc,"时间因素：时间暂时不列入内"));
 				return calc;
 			}
 			
@@ -183,59 +187,69 @@
 				var temp:String= (" " + percentValue).substr(0,6);
 				return data.title + ": " + '\n' + "影响到的点数: " + data.differ + '\n' + temp + "%";
 			}
-
+			
 			
 		]]>
 	</fx:Script>
-	<s:VGroup width="550" height="100%">
-		<s:DataGrid id="recruList" width="100%" height="200" gridClick="onGridClick(event)">
+	<s:VGroup width="400" height="100%">
+		<s:DataGrid id="recruList" width="100%" height="100%" gridClick="onGridClick(event)">
 			<s:columns>
 				<s:ArrayList>
-					<s:GridColumn dataField="id" headerText="编号" width="80"/>
-					<s:GridColumn dataField="name" headerText="职位名称"/>
+					<s:GridColumn dataField="name" headerText="职位名称" width="220"/>
+					<s:GridColumn dataField="average" headerText="平均点数"/>
+					<s:GridColumn dataField="months" headerText="月数"/>
 				</s:ArrayList>
 			</s:columns>
-			
 		</s:DataGrid>
-		<s:VGroup width="100%">
-			<control:AnalyzeTitle id="title" />
-			<control:DataAnalyze id="lcoation" />
-			<control:DataAnalyze id="resumes" />
-			<control:DataAnalyze id="interview" />
-			<control:DataAnalyze id="education" />
-			<control:DataAnalyze id="special" />
-			<control:DataAnalyze id="technical" />
-			<control:DataAnalyze id="jobTitle" />
-			<control:DataAnalyze id="offer" />
-			<control:DataAnalyze id="exp" />
-			<control:DataAnalyze id="grade" />
-			<control:DataAnalyze id="category" />
-			<control:DataAnalyze id="time" />
-		</s:VGroup>
 	</s:VGroup>
-	<mx:PieChart id="chart" 
-				 height="80%" 
-				 width="80%"
-				 paddingRight="5" 
-				 paddingLeft="5" 
-				 showDataTips="true" 
-				 >          
-		<mx:series>
-			<mx:PieSeries 
-				nameField="title"
-				labelPosition="callout" 
-				field="differ" 
-				labelFunction="displayPoint" 
-				calloutStroke="{callouts}" 
-				radialStroke="{radial}" 
-				stroke="{pieborder}"
-				fills="{[sc1, sc2, sc3]}"
-				>
-				<mx:filters>
-					<fx:Array/>
-				</mx:filters>
-			</mx:PieSeries>
-		</mx:series>
-	</mx:PieChart>  
-	
+	<s:HGroup width="100%" height="100%" verticalAlign="bottom">
+		<s:BorderContainer width="100%" height="100%">
+			<s:HGroup id="average" width="100%" height="100%" visible="true">
+				<mx:LineChart id="linechartAverage" height="100%" width="100%"
+							  paddingLeft="5" paddingRight="5" 
+							  showDataTipTargets="true"
+							  showDataTips="true" showAllDataTips="false">
+					
+					<mx:horizontalAxis>
+						<mx:CategoryAxis categoryField="name"/>
+					</mx:horizontalAxis>
+					
+					<mx:series>
+						<mx:LineSeries yField="average" form="curve" displayName="平均值" lineStroke="{s1}"/>
+					</mx:series>
+				</mx:LineChart>
+				<mx:Legend dataProvider="{linechartAverage}"/>
+			</s:HGroup>
+			<s:HGroup id="max" width="100%" height="100%" visible="false">
+				<mx:LineChart id="linechartMax" height="100%" width="100%"
+							  paddingLeft="5" paddingRight="5"
+							  showDataTips="true" showAllDataTips="true">
+					
+					<mx:horizontalAxis>
+						<mx:CategoryAxis categoryField="name"/>
+					</mx:horizontalAxis>
+					
+					<mx:series>
+						<mx:LineSeries yField="max" form="curve" displayName="最大值" lineStroke="{s2}"/>
+					</mx:series>
+				</mx:LineChart>
+				<mx:Legend dataProvider="{linechartMax}"/>
+			</s:HGroup>
+			<s:HGroup id="min" width="100%" height="100%" visible="false">
+				<mx:LineChart id="linechartMin" height="100%" width="100%"
+							  paddingLeft="5" paddingRight="5"
+							  showDataTips="true" showAllDataTips="true">
+					
+					<mx:horizontalAxis>
+						<mx:CategoryAxis categoryField="name"/>
+					</mx:horizontalAxis>
+					
+					<mx:series>
+						<mx:LineSeries yField="min" form="curve" displayName="最小值" lineStroke="{s3}"/>
+					</mx:series>
+				</mx:LineChart>
+				<mx:Legend dataProvider="{linechartMin}"/>
+			</s:HGroup>
+		</s:BorderContainer>
+	</s:HGroup>
 </s:HGroup>
