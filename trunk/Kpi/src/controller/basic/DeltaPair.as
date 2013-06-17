@@ -1,5 +1,7 @@
 package controller.basic
 {
+	import controller.data.MathUtil;
+
 	public class DeltaPair
 	{
 		private var standard:ValuePair;
@@ -21,7 +23,7 @@ package controller.basic
 				value=maximum.value;
 			if (value<minimum.value)
 				value=minimum.value;
-			return (value-standard.value)*delta.value;
+			return MathUtil.round((value-standard.value)*delta.value);
 		}
 	}
 }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:HGroup xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		  xmlns:s="library://ns.adobe.com/flex/spark" 
+		  xmlns:mx="library://ns.adobe.com/flex/mx"
+		  width="100%">
+	<fx:Declarations>
+		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+	</fx:Declarations>
+	
+	<fx:Script>
+		<![CDATA[
+			import controller.data.MathUtil;
+			import controller.data.PartData;
+			public function setData(before:Number,after:Number,title:String):PartData {
+				var partData:PartData=new PartData();
+				partData.before=MathUtil.round(before);
+				partData.after=MathUtil.round(after);
+				partData.title=title;
+				_t.text=partData.title;
+				_b.text="计算之前结果为："+partData.before;
+				_a.text="计算之后结果为:"+partData.after;
+				return partData;
+			}
+		]]>
+	</fx:Script>
+	<s:Label id="_t" width="200" />
+	<s:Label id="_b" width="180" />
+	<s:Label id="_a" width="180" />
+	
+</s:HGroup>

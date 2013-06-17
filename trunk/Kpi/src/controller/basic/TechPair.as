@@ -1,5 +1,7 @@
 package controller.basic
 {
+	import controller.data.MathUtil;
+
 	public class TechPair extends MultiPair
 	{
 		public function TechPair(r:XML)
@@ -18,7 +20,7 @@ package controller.basic
 				calc+=getValue(xml.@name);
 			}
 			calc+=getValue("basic");
-			return calc;
+			return MathUtil.round(calc);
 		}
 	}
 }

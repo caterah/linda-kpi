@@ -44,6 +44,7 @@
 				exp.setRuleXml(xml.exp[0]);
 				offer.setRuleXml(xml.offer[0]);
 				interview.setRuleXml(xml.interview[0]);
+				jobTitle.setRuleXml(xml.job[0]);
 				resume.setRuleXml(xml.resume[0]);
 				tech.setRuleXml(xml.tech[0]);
 				special.setRuleXml(xml.special[0]);
@@ -81,16 +82,17 @@
 						<s:TextInput id="time"/>
 					</s:BorderContainer>
 					
-					<control:DynamicRule id="category" enableAdd="true"/>
-					<control:DynamicRule id="grade"/>
-					<control:DynamicRule id="exp"/>
-					<control:DynamicRule id="offer"/>
-					<control:DynamicRule id="interview"/>
-					<control:DynamicRule id="resume"/>
-					<control:RuleSelect id="tech"/>
-					<control:RuleSelect id="special"/>
-					<control:RuleSelect id="education"/>
-					<control:RuleSelect id="location"/>
+					<control:DynamicRule id="category" width="100%" enableAdd="true"/>
+					<control:DynamicRule id="grade" width="100%" />
+					<control:DynamicRule id="exp" width="100%" />
+					<control:DynamicRule id="offer" width="100%" />
+					<control:DynamicRule id="interview" width="100%" />
+					<control:DynamicRule id="resume" width="100%" />
+					<control:DynamicRule id="jobTitle" width="100%" enableAdd="true" />
+					<control:RuleSelect id="tech" width="100%" />
+					<control:DynamicRule id="special" width="100%" />
+					<control:DynamicRule id="education" width="100%" />
+					<control:DynamicRule id="location" width="100%" />
 				</s:VGroup>
 			</s:Scroller>
 		</s:HGroup>

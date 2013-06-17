@@ -32,7 +32,7 @@
 	</fx:Script>
 	<s:HGroup width="100%">
 		<s:Label text="大项的名称：" />
-		<mx:Text id="title"  color="0xFF0000"/>
+		<s:Label id="title"  color="0xFF0000"/>
 		<s:TextInput id="description" selectable="true" width="100%" />
 		<s:Button label="更新说明" click="updateDescription(event)" />
 	</s:HGroup>

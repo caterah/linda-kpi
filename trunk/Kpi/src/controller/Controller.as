@@ -8,8 +8,8 @@ package controller
 
 	public class Controller
 	{
-		private static const RULE_URL:String="D:\\rule.xml";
-		private static const DATA_URL:String="D:\\recruitment.xml";
+		private static const RULE_URL:String="\\rule\\rule.xml";
+		private static const DATA_URL:String="\\input\\recruitment.xml";
 		
 		private var _rule:XML;
 		private var _data:XML;
@@ -45,7 +45,7 @@ package controller
 		public function loadRule():void
 		{
 			var file:File = new File();
-			file.nativePath=RULE_URL;
+			file.nativePath=File.applicationDirectory.nativePath+RULE_URL;
 			var fileStream:FileStream = new FileStream();
 			fileStream.open(file, FileMode.READ);
 			XML.ignoreComments=false;
@@ -58,7 +58,7 @@ package controller
 		public function saveRule():void
 		{
 			var file:File = new File();
-			file.nativePath=RULE_URL;
+			file.nativePath=File.applicationDirectory.nativePath+RULE_URL;
 			var fileStream:FileStream = new FileStream();
 			fileStream.open(file, FileMode.WRITE);
 			var outputString:String = '<?xml version="1.0" encoding="utf-8"?>';
@@ -72,7 +72,7 @@ package controller
 		public function loadData():void
 		{
 			var file:File = new File();
-			file.nativePath=DATA_URL;
+			file.nativePath=File.applicationDirectory.nativePath+DATA_URL;
 			var fileStream:FileStream = new FileStream();
 			fileStream.open(file, FileMode.READ);
 			XML.ignoreComments=false;
@@ -83,7 +83,7 @@ package controller
 		public function saveData():void
 		{
 			var file:File = new File();
-			file.nativePath=DATA_URL;
+			file.nativePath=File.applicationDirectory.nativePath+DATA_URL;
 			var fileStream:FileStream = new FileStream();
 			fileStream.open(file, FileMode.WRITE);
 			var outputString:String = '<?xml version="1.0" encoding="utf-8"?>';
